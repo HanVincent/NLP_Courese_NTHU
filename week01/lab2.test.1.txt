@@ -100,7 +100,7 @@ on the blackbroad 	on the blackboard
 on the golb 	on the globe
 in the cupbroad 	in the cupboard
 the light swith 	the light switch
-from the thinest 	from the thinnest
+list	from the thinnest
 to the fatest 	to the fattest
 in a feild 	in a field
 a cerry red dress 	a cherry red dress
