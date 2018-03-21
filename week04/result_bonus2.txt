@@ -1,0 +1,1570 @@
+================ 1 ===================
+Error: felt
+Candidates: ['felt', 'field', 'fault', 'fell', 'fled', 'full', 'fall', 'fat', 'felty', 'fold']
+Correction: felt
+I felt very strange -> I felt very strange (correct: I felt very strange )
+hits = 1
+
+
+================ 2 ===================
+Error: at
+Candidates: ['and', 'at', 'it', 'a', 'of', 'as', 'its', 'act', 'all', 'is']
+Correction: at
+at break time -> at break time (correct: at break time )
+hits = 2
+
+
+================ 3 ===================
+Error: break
+Candidates: ['break', 'breaks', 'breath', 'breach', 'breast', 'bark', 'brook', 'bleak', 'bread', 'broad']
+Correction: bread
+when the break was finished -> when the bread was finished (correct: when the break was finished )
+hits = 2
+
+
+================ 4 ===================
+Error: winter
+Candidates: ['winter', 'winters', 'water', 'wanted', 'wonder', 'wine', 'wander', 'wintry', 'hunter', 'wider']
+Correction: water
+in the winter when it was snowing -> in the water when it was snowing (correct: in the winter when it was snowing )
+hits = 2
+
+
+================ 5 ===================
+Error: ghost
+Candidates: ['ghost', 'ghosts', 'got', 'chest', 'those', 'cost', 'post', 'shots', 'short', 'gust']
+Correction: short
+I thought it was a ghost -> I thought it was a short (correct: I thought it was a ghost )
+hits = 2
+
+
+================ 6 ===================
+Error: houses
+Candidates: ['houses', 'house', 'horses', 'horse', 'hours', 'causes', 'holmes', 'courses', 'homes', 'hosts']
+Correction: house
+everything except the houses -> everything except the house (correct: everything except the houses )
+hits = 2
+
+
+================ 7 ===================
+Error: I
+Candidates: ['i', 'a', 's', 'j', 't', 'x', 'f', 'm', 'w', 'v']
+Correction: i
+when I first stepped -> when i first stepped (correct: when I first stepped )
+hits = 2
+
+
+================ 8 ===================
+Error: on
+Candidates: ['and', 'on', 'one', 'in', 'of', 'own', 'an', 'any', 'or', 'a']
+Correction: on
+I was on an escalator -> I was on an escalator (correct: I was on an escalator )
+hits = 3
+
+
+================ 9 ===================
+Error: this
+Candidates: ['this', 'these', 'that', 'those', 'their', 'thus', 'the', 'theirs', 'they', 'thirst']
+Correction: the
+I noticed that I was on this thing -> I noticed that I was on the thing (correct: I noticed that I was on this thing )
+hits = 3
+
+
+================ 10 ===================
+Error: fence
+Candidates: ['france', 'french', 'fence', 'face', 'fancy', 'fences', 'force', 'fine', 'fenced', 'fencer']
+Correction: french
+through the fence -> through the french (correct: through the fence )
+hits = 3
+
+
+================ 11 ===================
+Error: them
+Candidates: ['them', 'the', 'then', 'than', 'that', 'thin', 'when', 'thumb', 'their', 'this']
+Correction: the
+the hunters kill them -> the hunters kill the (correct: the hunters kill them )
+hits = 3
+
+
+================ 12 ===================
+Error: their
+Candidates: ['their', 'there', 'the', 'third', 'this', 'theirs', 'they', 'thiers', 'theory', 'chair']
+Correction: the
+they kill birds with their arrow -> they kill birds with the arrow (correct: they kill birds with their arrow )
+hits = 3
+
+
+================ 13 ===================
+Error: make
+Candidates: ['make', 'marked', 'makes', 'market', 'made', 'take', 'naked', 'meek', 'maker', 'taken']
+Correction: take
+make a deep hole -> take a deep hole (correct: make a deep hole )
+hits = 3
+
+
+================ 14 ===================
+Error: garden
+Candidates: ['garden', 'gardens', 'golden', 'guarded', 'gordon', 'grade', 'gadsden', 'grades', 'gladden', 'garment']
+Correction: garment
+to tidy up his garden -> to tidy up his garment (correct: to tidy up his garden )
+hits = 3
+
+
+================ 15 ===================
+Error: blew
+Candidates: ['below', 'blow', 'blew', 'blows', 'blown', 'flew', 'drew', 'bow', 'be', 'plow']
+Correction: blows
+the wind blew the leaves -> the wind blows the leaves (correct: the wind blew the leaves )
+hits = 3
+
+
+================ 16 ===================
+Error: J.
+Candidates: ['go', 'g', 'of', 'by', 'j', 'gr', 'to', 'in', 'he', 'my']
+Correction: j
+Mr J. was very angry -> Mr j was very angry (correct: Mr J. was very angry )
+hits = 3
+
+
+================ 17 ===================
+Error: full
+Candidates: ['full', 'fully', 'fell', 'fall', 'fill', 'folly', 'fault', 'felt', 'falls', 'fills']
+Correction: full
+garden full of leaves -> garden full of leaves (correct: garden full of leaves )
+hits = 4
+
+
+================ 18 ===================
+Error: to
+Candidates: ['to', 'the', 'two', 'took', 'do', 'for', 'so', 'don', 'not', 'how']
+Correction: to
+talk to the manager -> talk to the manager (correct: talk to the manager )
+hits = 5
+
+
+================ 19 ===================
+Error: arrow
+Candidates: ['arrow', 'arrows', 'allow', 'error', 'throw', 'aglow', 'ardor', 'array', 'brow', 'armor']
+Correction: error
+they throw a arrow -> they throw a error (correct: they throw a arrow )
+hits = 5
+
+
+================ 20 ===================
+Error: hunting
+Candidates: ['hunting', 'handing', 'hinting', 'hurting', 'hunching', 'hanging', 'putting', 'humming', 'funding', 'running']
+Correction: funding
+an ancient method of hunting -> an ancient method of funding (correct: an ancient method of hunting )
+hits = 5
+
+
+================ 21 ===================
+Error: deer
+Candidates: ['dear', 'were', 'desert', 'door', 'been', 'deeper', 'deep', 'her', 'dare', 'deer']
+Correction: door
+after the deer -> after the door (correct: after the deer )
+hits = 5
+
+
+================ 22 ===================
+Error: birds
+Candidates: ['birds', 'boards', 'bird', 'beards', 'blinds', 'words', 'beds', 'burns', 'bonds', 'bands']
+Correction: bird
+the birds flew up -> the bird flew up (correct: the birds flew up )
+hits = 5
+
+
+================ 23 ===================
+Error: any
+Candidates: ['any', 'army', 'only', 'and', 'one', 'in', 'an', 'a', 'envy', 'anti']
+Correction: a
+making any noise -> making a noise (correct: making any noise )
+hits = 5
+
+
+================ 24 ===================
+Error: bring
+Candidates: ['bring', 'burning', 'brings', 'bridge', 'being', 'boring', 'burying', 'baring', 'brain', 'barking']
+Correction: bring
+bring it straight to the hunters -> bring it straight to the hunters (correct: bring it straight to the hunters )
+hits = 6
+
+
+================ 25 ===================
+Error: waits
+Candidates: ['was', 'wait', 'waited', 'waist', 'waits', 'waists', 'habits', 'writes', 'with', 'writs']
+Correction: with
+this means a man waits -> this means a man with (correct: this means a man waits )
+hits = 6
+
+
+================ 26 ===================
+Error: waits
+Candidates: ['was', 'wait', 'waited', 'waist', 'waits', 'waists', 'habits', 'writes', 'with', 'writs']
+Correction: was
+a man waits for the animal -> a man was for the animal (correct: a man waits for the animal )
+hits = 6
+
+
+================ 27 ===================
+Error: arrow
+Candidates: ['arrow', 'arrows', 'allow', 'error', 'throw', 'aglow', 'ardor', 'array', 'brow', 'armor']
+Correction: error
+an arrow in his hand -> an error in his hand (correct: an arrow in his hand )
+hits = 6
+
+
+================ 28 ===================
+Error: they
+Candidates: ['they', 'the', 'there', 'these', 'that', 'this', 'thy', 'three', 'their', 'then']
+Correction: they
+they dig a hole -> they dig a hole (correct: they dig a hole )
+hits = 7
+
+
+================ 29 ===================
+Error: bait
+Candidates: ['but', 'built', 'bit', 'basis', 'paid', 'bad', 'beat', 'bait', 'bruit', 'brain']
+Correction: bad
+a piece of bait -> a piece of bad (correct: a piece of bait )
+hits = 7
+
+
+================ 30 ===================
+Error: trap
+Candidates: ['trap', 'tramp', 'trip', 'drop', 'that', 'traps', 'grasp', 'crop', 'troop', 'top']
+Correction: that
+this trap looks like a cave -> this that looks like a cave (correct: this trap looks like a cave )
+hits = 7
+
+
+================ 31 ===================
+Error: they
+Candidates: ['they', 'the', 'there', 'these', 'that', 'this', 'thy', 'three', 'their', 'then']
+Correction: that
+they make noise -> that make noise (correct: they make noise )
+hits = 7
+
+
+================ 32 ===================
+Error: scared
+Candidates: ['scared', 'started', 'secured', 'scarlet', 'stared', 'sacred', 'scar', 'scored', 'scraped', 'scorned']
+Correction: sacred
+the animals are scared -> the animals are sacred (correct: the animals are scared )
+hits = 7
+
+
+================ 33 ===================
+Error: rabbits
+Candidates: ['rabbits', 'rabbit', 'habits', 'rabbi', 'rabies', 'rabbitse', 'rabbitsa', 'rabbitq', 'rabbitb', 'rabbitsi']
+Correction: rabbit
+the rabbits will run -> the rabbit will run (correct: the rabbits will run )
+hits = 7
+
+
+================ 34 ===================
+Error: throw
+Candidates: ['throw', 'thrown', 'throws', 'threw', 'show', 'three', 'grow', 'throat', 'thou', 'throne']
+Correction: threw
+they throw stones -> they threw stones (correct: they throw stones )
+hits = 7
+
+
+================ 35 ===================
+Error: they
+Candidates: ['they', 'the', 'there', 'these', 'that', 'this', 'thy', 'three', 'their', 'then']
+Correction: the
+they chasing the animals -> the chasing the animals (correct: they chasing the animals )
+hits = 7
+
+
+================ 36 ===================
+Error: three
+Candidates: ['there', 'the', 'three', 'they', 'these', 'where', 'threes', 'threw', 'trees', 'tree']
+Correction: three
+three hundred people -> three hundred people (correct: three hundred people )
+hits = 8
+
+
+================ 37 ===================
+Error: it
+Candidates: ['it', 'into', 'its', 'at', 'is', 'in', 'i', 'of', 'if', 'a']
+Correction: it
+it was colourful -> it was colourful (correct: it was colourful )
+hits = 9
+
+
+================ 38 ===================
+Error: clowns
+Candidates: ['clowns', 'clouds', 'crown', 'clown', 'crowds', 'crowns', 'towns', 'claws', 'crows', 'gowns']
+Correction: towns
+I saw many clowns -> I saw many towns (correct: I saw many clowns )
+hits = 9
+
+
+================ 39 ===================
+Error: do
+Candidates: ['to', 'do', 'don', 'door', 'not', 'go', 'be', 'dog', 'dron', 'no']
+Correction: do
+could do it easily -> could do it easily (correct: could do it easily )
+hits = 10
+
+
+================ 40 ===================
+Error: blood
+Candidates: ['blood', 'bloody', 'broad', 'bold', 'brood', 'flood', 'book', 'bleed', 'boot', 'plood']
+Correction: blood
+blood was coming out -> blood was coming out (correct: blood was coming out )
+hits = 11
+
+
+================ 41 ===================
+Error: you
+Candidates: ['you', 'your', 'to', 'so', 'now', 'soul', 'how', 'no', 'hour', 'yes']
+Correction: to
+you have wandered away -> to have wandered away (correct: you have wandered away )
+hits = 11
+
+
+================ 42 ===================
+Error: can
+Candidates: ['can', 'calm', 'chain', 'son', 'cent', 'hand', 'sang', 'pain', 'gain', 'chin']
+Correction: can
+you can control with your toes -> you can control with your toes (correct: you can control with your toes )
+hits = 12
+
+
+================ 43 ===================
+Error: chatting
+Candidates: ['chatting', 'cutting', 'shutting', 'chanting', 'casting', 'patting', 'changing', 'charming', 'chaffing', 'carting']
+Correction: chatting
+chatting to each other -> chatting to each other (correct: chatting to each other )
+hits = 13
+
+
+================ 44 ===================
+Error: from
+Candidates: ['from', 'form', 'forms', 'for', 'frown', 'frame', 'front', 'forum', 'fro', 'groom']
+Correction: from
+out from the wardrobe -> out from the wardrobe (correct: out from the wardrobe )
+hits = 14
+
+
+================ 45 ===================
+Error: for
+Candidates: ['for', 'form', 'four', 'from', 'far', 'fear', 'fort', 'flour', 'fire', 'flora']
+Correction: for
+for controlling temperature -> for controlling temperature (correct: for controlling temperature )
+hits = 15
+
+
+================ 46 ===================
+Error: friendly
+Candidates: ['friendly', 'friends', 'friend', 'friendlk', 'friendlys', 'friendla', 'friendlj', 'friendlyc', 'friendlz', 'friendl']
+Correction: friends
+friendly with your neighbours -> friends with your neighbours (correct: friendly with your neighbours )
+hits = 15
+
+
+================ 47 ===================
+Error: princess
+Candidates: ['princess', 'princesses', 'prince', 'princesse', 'prices', 'process', 'printers', 'painless', 'princely', 'princes']
+Correction: process
+the princess has given birth -> the process has given birth (correct: the princess has given birth )
+hits = 15
+
+
+================ 48 ===================
+Error: to
+Candidates: ['to', 'the', 'two', 'took', 'do', 'for', 'so', 'don', 'not', 'how']
+Correction: to
+to make arrangements -> to make arrangements (correct: to make arrangements )
+hits = 16
+
+
+================ 49 ===================
+Error: hit
+Candidates: ['his', 'had', 'with', 'him', 'he', 'her', 'high', 'hit', 'hat', 'heat']
+Correction: hit
+hit him with a hammer -> hit him with a hammer (correct: hit him with a hammer )
+hits = 17
+
+
+================ 50 ===================
+Error: might
+Candidates: ['might', 'night', 'mighty', 'nights', 'right', 'fight', 'rights', 'sight', 'tight', 'wight']
+Correction: might
+they might see you -> they might see you (correct: they might see you )
+hits = 18
+
+
+================ 51 ===================
+Error: is
+Candidates: ['is', 'its', 'as', 'it', 'i', 'in', 'of', 'a', 'if', 'us']
+Correction: of
+transport is different -> transport of different (correct: transport is different )
+hits = 18
+
+
+================ 52 ===================
+Error: have
+Candidates: ['have', 'heaven', 'heavy', 'haven', 'heaved', 'halves', 'had', 'hive', 'heave', 'save']
+Correction: have
+they have different clothes -> they have different clothes (correct: they have different clothes )
+hits = 19
+
+
+================ 53 ===================
+Error: a
+Candidates: ['a', 'as', 'at', 'an', 'i', 'am', 'ah', 'o', 's', 'e']
+Correction: a
+a plastic sharpener -> a plastic sharpener (correct: a plastic sharpener )
+hits = 20
+
+
+================ 54 ===================
+Error: chinese
+Candidates: ['chinese', 'chimes', 'shines', 'chins', 'chiene', 'chinks', 'cheese', 'chinesu', 'chinesek', 'chineset']
+Correction: chinese
+the chinese invented paper -> the chinese invented paper (correct: the chinese invented paper )
+hits = 21
+
+
+================ 55 ===================
+Error: bottle
+Candidates: ['battle', 'bottle', 'bottles', 'battles', 'brittle', 'battled', 'bustle', 'little', 'dottles', 'wattle']
+Correction: bottle
+a bottle of lemonade -> a bottle of lemonade (correct: a bottle of lemonade )
+hits = 22
+
+
+================ 56 ===================
+Error: you
+Candidates: ['you', 'your', 'to', 'so', 'now', 'soul', 'how', 'no', 'hour', 'yes']
+Correction: your
+to hear you -> to hear your (correct: to hear you )
+hits = 22
+
+
+================ 57 ===================
+Error: on
+Candidates: ['and', 'on', 'one', 'in', 'of', 'own', 'an', 'any', 'or', 'a']
+Correction: on
+on and off -> on and off (correct: on and off )
+hits = 23
+
+
+================ 58 ===================
+Error: you
+Candidates: ['you', 'your', 'to', 'so', 'now', 'soul', 'how', 'no', 'hour', 'yes']
+Correction: you
+if you are thirsty -> if you are thirsty (correct: if you are thirsty )
+hits = 24
+
+
+================ 59 ===================
+Error: a
+Candidates: ['a', 'as', 'at', 'an', 'i', 'am', 'ah', 'o', 's', 'e']
+Correction: a
+a match box -> a match box (correct: a match box )
+hits = 25
+
+
+================ 60 ===================
+Error: of
+Candidates: ['of', 'if', 'or', 'on', 'our', 'a', 'out', 'as', 'in', 'up']
+Correction: of
+all of a sudden -> all of a sudden (correct: all of a sudden )
+hits = 26
+
+
+================ 61 ===================
+Error: up
+Candidates: ['up', 'of', 'a', 'if', 'it', 'or', 'at', 'us', 'is', 'apt']
+Correction: up
+went up the curtain -> went up the curtain (correct: went up the curtain )
+hits = 27
+
+
+================ 62 ===================
+Error: with
+Candidates: ['with', 'which', 'wish', 'wait', 'width', 'watch', 'white', 'wrath', 'wet', 'wit']
+Correction: with
+with bubbles in it -> with bubbles in it (correct: with bubbles in it )
+hits = 28
+
+
+================ 63 ===================
+Error: had
+Candidates: ['had', 'hand', 'head', 'heard', 'hands', 'hard', 'heads', 'said', 'his', 'her']
+Correction: had
+so I had a bath -> so I had a bath (correct: so I had a bath )
+hits = 29
+
+
+================ 64 ===================
+Error: made
+Candidates: ['made', 'maiden', 'make', 'mad', 'man', 'more', 'many', 'mode', 'mary', 'madly']
+Correction: make
+I made clothes with it -> I make clothes with it (correct: I made clothes with it )
+hits = 29
+
+
+================ 65 ===================
+Error: scared
+Candidates: ['scared', 'started', 'secured', 'scarlet', 'stared', 'sacred', 'scar', 'scored', 'scraped', 'scorned']
+Correction: scared
+I was scared of it -> I was scared of it (correct: I was scared of it )
+hits = 30
+
+
+================ 66 ===================
+Error: through
+Candidates: ['through', 'though', 'thorough', 'thought', 'trough', 'troughs', 'thwough', 'tough', 'throng', 'throngs']
+Correction: through
+through the window -> through the window (correct: through the window )
+hits = 31
+
+
+================ 67 ===================
+Error: days
+Candidates: ['days', 'day', 'was', 'does', 'says', 'rays', 'ways', 'boys', 'joys', 'may']
+Correction: day
+one of my exciting days -> one of my exciting day (correct: one of my exciting days )
+hits = 31
+
+
+================ 68 ===================
+Error: ate
+Candidates: ['at', 'after', 'it', 'the', 'act', 'as', 'are', 'acted', 'anti', 'ate']
+Correction: the
+found some crumbs and ate them -> found some crumbs and the them (correct: found some crumbs and ate them )
+hits = 31
+
+
+================ 69 ===================
+Error: was
+Candidates: ['was', 'what', 'west', 'wish', 'his', 'wars', 'ways', 'has', 'we', 'wash']
+Correction: was
+I was very careful -> I was very careful (correct: I was very careful )
+hits = 32
+
+
+================ 70 ===================
+Error: ghost
+Candidates: ['ghost', 'ghosts', 'got', 'chest', 'those', 'cost', 'post', 'shots', 'short', 'gust']
+Correction: post
+speaking to a ghost -> speaking to a post (correct: speaking to a ghost )
+hits = 32
+
+
+================ 71 ===================
+Error: make
+Candidates: ['make', 'marked', 'makes', 'market', 'made', 'take', 'naked', 'meek', 'maker', 'taken']
+Correction: make
+to make people scared -> to make people scared (correct: to make people scared )
+hits = 33
+
+
+================ 72 ===================
+Error: lit
+Candidates: ['with', 'let', 'lit', 'but', 'list', 'lift', 'late', 'laid', 'did', 'lint']
+Correction: lit
+lit a candle -> lit a candle (correct: lit a candle )
+hits = 34
+
+
+================ 73 ===================
+Error: or
+Candidates: ['or', 'of', 'our', 'are', 'a', 'on', 'off', 'ours', 'old', 'one']
+Correction: of
+a man or a lady -> a man of a lady (correct: a man or a lady )
+hits = 34
+
+
+================ 74 ===================
+Error: happened
+Candidates: ['happened', 'happen', 'happens', 'hampered', 'hastened', 'hardened', 'happenes', 'happenej', 'happenedj', 'happenez']
+Correction: happens
+something bad happened -> something bad happens (correct: something bad happened )
+hits = 34
+
+
+================ 75 ===================
+Error: thunder
+Candidates: ['thunder', 'tender', 'shudder', 'thinner', 'thinker', 'tinder', 'thudded', 'plunder', 'founder', 'sounder']
+Correction: thunder
+thunder and lightning -> thunder and lightning (correct: thunder and lightning )
+hits = 35
+
+
+================ 76 ===================
+Error: inspector,
+Candidates: ['inspector', 'inspector,', 'inspectorq', 'inspectord', 'inspectory', 'inspectoro', 'inspectorn', 'inspectorz', 'inspector,d', 'inspector,g']
+Correction: inspector
+the inspector, the sergeant -> the inspector the sergeant (correct: the inspector, the sergeant )
+hits = 35
+
+
+================ 77 ===================
+Error: noise
+Candidates: ['notice', 'noise', 'noisy', 'voice', 'moist', 'nose', 'noised', 'novice', 'mouse', 'nice']
+Correction: nice
+a light and a noise -> a light and a nice (correct: a light and a noise )
+hits = 35
+
+
+================ 78 ===================
+Error: rub
+Candidates: ['ruby', 'rub', 'rugby', 'red', 'rubs', 'ribs', 'tube', 'rob', 'sub', 'rib']
+Correction: ruby
+I would rub a rag -> I would ruby a rag (correct: I would rub a rag )
+hits = 35
+
+
+================ 79 ===================
+Error: crush
+Candidates: ['crush', 'crutch', 'crouch', 'crash', 'truth', 'fresh', 'crust', 'cross', 'clash', 'brush']
+Correction: cross
+crush a police car -> cross a police car (correct: crush a police car )
+hits = 35
+
+
+================ 80 ===================
+Error: Ian
+Candidates: ['in', 'man', 'hand', 'want', 'isn', 'many', 'had', 'was', 'can', 'ana']
+Correction: had
+Ian tripped over -> had tripped over (correct: Ian tripped over )
+hits = 35
+
+
+================ 81 ===================
+Error: got
+Candidates: ['got', 'god', 'get', 'gouty', 'gold', 'gout', 'go', 'gate', 'most', 'ghost']
+Correction: get
+got a tissue from her bag -> get a tissue from her bag (correct: got a tissue from her bag )
+hits = 35
+
+
+================ 82 ===================
+Error: do
+Candidates: ['to', 'do', 'don', 'door', 'not', 'go', 'be', 'dog', 'dron', 'no']
+Correction: do
+what do you mean -> what do you mean (correct: what do you mean )
+hits = 36
+
+
+================ 83 ===================
+Error: writing
+Candidates: ['writing', 'writings', 'writhing', 'waiting', 'wringing', 'uniting', 'wring', 'drifting', 'witing', 'wiping']
+Correction: writing
+I'm writing a letter -> I'm writing a letter (correct: I'm writing a letter )
+hits = 37
+
+
+================ 84 ===================
+Error: a
+Candidates: ['a', 'as', 'at', 'an', 'i', 'am', 'ah', 'o', 's', 'e']
+Correction: a
+a straight line -> a straight line (correct: a straight line )
+hits = 38
+
+
+================ 85 ===================
+Error: going
+Candidates: ['going', 'growing', 'glowing', 'joking', 'doing', 'coming', 'joint', 'groping', 'goings', 'join']
+Correction: going
+I thought it was going to rain -> I thought it was going to rain (correct: I thought it was going to rain )
+hits = 39
+
+
+================ 86 ===================
+Error: wanted
+Candidates: ['wanted', 'handed', 'want', 'wasted', 'walked', 'wonted', 'winter', 'winked', 'waited', 'water']
+Correction: wanted
+he just wanted to die -> he just wanted to die (correct: he just wanted to die )
+hits = 40
+
+
+================ 87 ===================
+Error: bouncing
+Candidates: ['bounding', 'mounting', 'bunting', 'lounging', 'founding', 'wounding', 'rounding', 'counting', 'sounding', 'bouncing']
+Correction: bouncing
+bouncing a ball -> bouncing a ball (correct: bouncing a ball )
+hits = 41
+
+
+================ 88 ===================
+Error: fruits
+Candidates: ['fruits', 'fruit', 'fluids', 'fritz', 'fits', 'writs', 'bruit', 'faults', 'furies', 'frosts']
+Correction: fruit
+ate some fruits -> ate some fruit (correct: ate some fruits )
+hits = 41
+
+
+================ 89 ===================
+Error: he
+Candidates: ['he', 'her', 'his', 'had', 'to', 'him', 'how', 'has', 'h', 'ha']
+Correction: he
+he doesn't notice -> he doesn't notice (correct: he doesn't notice )
+hits = 42
+
+
+================ 90 ===================
+Error: bull
+Candidates: ['but', 'ball', 'dull', 'bill', 'bull', 'bell', 'bully', 'balls', 'full', 'pull']
+Correction: bull
+a bull charging at him -> a bull charging at him (correct: a bull charging at him )
+hits = 43
+
+
+================ 91 ===================
+Error: and
+Candidates: ['and', 'in', 'an', 'end', 'on', 'at', 'ends', 'a', 'old', 'aunt']
+Correction: and
+and ice-cream stall -> and ice-cream stall (correct: and ice-cream stall )
+hits = 44
+
+
+================ 92 ===================
+Error: was
+Candidates: ['was', 'what', 'west', 'wish', 'his', 'wars', 'ways', 'has', 'we', 'wash']
+Correction: was
+there was a giraffe -> there was a giraffe (correct: there was a giraffe )
+hits = 45
+
+
+================ 93 ===================
+Error: came
+Candidates: ['came', 'same', 'come', 'some', 'can', 'time', 'comes', 'crime', 'game', 'calmer']
+Correction: can
+then a crocodile came -> then a crocodile can (correct: then a crocodile came )
+hits = 45
+
+
+================ 94 ===================
+Error: a
+Candidates: ['a', 'as', 'at', 'an', 'i', 'am', 'ah', 'o', 's', 'e']
+Correction: a
+iron is a hard metal -> iron is a hard metal (correct: iron is a hard metal )
+hits = 46
+
+
+================ 95 ===================
+Error: four
+Candidates: ['for', 'four', 'form', 'found', 'flour', 'floor', 'fours', 'fur', 'fort', 'foul']
+Correction: for
+four pen knives -> for pen knives (correct: four pen knives )
+hits = 46
+
+
+================ 96 ===================
+Error: are
+Candidates: ['are', 'or', 'army', 'area', 'agree', 'and', 'acres', 'armed', 'one', 'at']
+Correction: are
+there are four chimneys -> there are four chimneys (correct: there are four chimneys )
+hits = 47
+
+
+================ 97 ===================
+Error: on
+Candidates: ['and', 'on', 'one', 'in', 'of', 'own', 'an', 'any', 'or', 'a']
+Correction: on
+on the blackboard -> on the blackboard (correct: on the blackboard )
+hits = 48
+
+
+================ 98 ===================
+Error: on
+Candidates: ['and', 'on', 'one', 'in', 'of', 'own', 'an', 'any', 'or', 'a']
+Correction: of
+on the globe -> of the globe (correct: on the globe )
+hits = 48
+
+
+================ 99 ===================
+Error: in
+Candidates: ['in', 'and', 'on', 'an', 'i', 'one', 'it', 'any', 'is', 'a']
+Correction: in
+in the cupboard -> in the cupboard (correct: in the cupboard )
+hits = 49
+
+
+================ 100 ===================
+Error: the
+Candidates: ['the', 'they', 'then', 'them', 'that', 'she', 'this', 'threw', 'when', 'take']
+Correction: the
+the light switch -> the light switch (correct: the light switch )
+hits = 50
+
+
+================ 101 ===================
+Error: thinnest
+Candidates: ['thinness', 'thinner', 'thinned', 'tiniest', 'thickest', 'thinnest', 'thinnestr', 'thinnesv', 'thinnestd', 'thinnestn']
+Correction: tiniest
+from the thinnest -> from the tiniest (correct: from the thinnest )
+hits = 50
+
+
+================ 102 ===================
+Error: fattest
+Candidates: ['fattest', 'farthest', 'faintest', 'latest', 'fatten', 'hottest', 'faites', 'fatted', 'fairest', 'hatest']
+Correction: latest
+to the fattest -> to the latest (correct: to the fattest )
+hits = 50
+
+
+================ 103 ===================
+Error: in
+Candidates: ['in', 'and', 'on', 'an', 'i', 'one', 'it', 'any', 'is', 'a']
+Correction: in
+in a field -> in a field (correct: in a field )
+hits = 51
+
+
+================ 104 ===================
+Error: cherry
+Candidates: ['cherry', 'sherry', 'thierry', 'gerry', 'cheery', 'perry', 'theory', 'chary', 'cheer', 'ferry']
+Correction: cherry
+a cherry red dress -> a cherry red dress (correct: a cherry red dress )
+hits = 52
+
+
+================ 105 ===================
+Error: play
+Candidates: ['play', 'plays', 'place', 'pay', 'pray', 'plans', 'plan', 'clay', 'plain', 'plate']
+Correction: plan
+the beginning of the play -> the beginning of the plan (correct: the beginning of the play )
+hits = 52
+
+
+================ 106 ===================
+Error: rice
+Candidates: ['rise', 'rice', 'like', 'face', 'raise', 'riches', 'richer', 'risen', 'rises', 'race']
+Correction: rice
+fried rice and noodles -> fried rice and noodles (correct: fried rice and noodles )
+hits = 53
+
+
+================ 107 ===================
+Error: carry
+Candidates: ['carry', 'sorry', 'cherry', 'gerry', 'curly', 'party', 'hurry', 'tarry', 'vary', 'perry']
+Correction: carry
+carry money with me -> carry money with me (correct: carry money with me )
+hits = 54
+
+
+================ 108 ===================
+Error: are
+Candidates: ['are', 'or', 'army', 'area', 'agree', 'and', 'acres', 'armed', 'one', 'at']
+Correction: are
+they are believe superstitious -> they are believe superstitious (correct: they are believe superstitious )
+hits = 55
+
+
+================ 109 ===================
+Error: things
+Candidates: ['things', 'thing', 'think', 'thinks', 'this', 'thanks', 'thin', 'throngs', 'takings', 'thirds']
+Correction: things
+the things I believe -> the things I believe (correct: the things I believe )
+hits = 56
+
+
+================ 110 ===================
+Error: their
+Candidates: ['their', 'there', 'the', 'third', 'this', 'theirs', 'they', 'thiers', 'theory', 'chair']
+Correction: the
+differences between their knowledge -> differences between the knowledge (correct: differences between their knowledge )
+hits = 56
+
+
+================ 111 ===================
+Error: by
+Candidates: ['by', 'boy', 'be', 'buy', 'but', 'boys', 'my', 'bay', 'bye', 'bow']
+Correction: by
+by logical speech -> by logical speech (correct: by logical speech )
+hits = 57
+
+
+================ 112 ===================
+Error: colour
+Candidates: ['colour', 'color', 'colours', 'colors', 'contour', 'cloud', 'colon', 'flour', 'collar', 'colony']
+Correction: collar
+a white colour -> a white collar (correct: a white colour )
+hits = 57
+
+
+================ 113 ===================
+Error: don't
+Candidates: ['don', 'done', 'dont', 'donate', 'donets', 'wont', 'dint', 'donc', 'pont', 'font']
+Correction: don
+don't make anything break -> don make anything break (correct: don't make anything break )
+hits = 57
+
+
+================ 114 ===================
+Error: to
+Candidates: ['to', 'the', 'two', 'took', 'do', 'for', 'so', 'don', 'not', 'how']
+Correction: to
+to find out -> to find out (correct: to find out )
+hits = 58
+
+
+================ 115 ===================
+Error: when
+Candidates: ['when', 'went', 'whom', 'who', 'what', 'we', 'won', 'win', 'wens', 'the']
+Correction: when
+when a couple -> when a couple (correct: when a couple )
+hits = 59
+
+
+================ 116 ===================
+Error: dustbin
+Candidates: ['dusting', 'sustain', 'austin', 'dustbin', 'dustbip', 'dustbino', 'dustbind', 'dustbinq', 'dustbir', 'dustbid']
+Correction: dusting
+the dustbin is being emptyed -> the dusting is being emptyed (correct: the dustbin is being emptyed )
+hits = 59
+
+
+================ 117 ===================
+Error: dustpin
+Candidates: ['sustain', 'dusting', 'austin', 'dustpin', 'dustpinf', 'dustpiy', 'dustpix', 'dustping', 'dustpil', 'dustpie']
+Correction: austin
+the dustpin is being emptied -> the austin is being emptied (correct: the dustpin is being emptied )
+hits = 59
+
+
+================ 118 ===================
+Error: roof
+Candidates: ['roof', 'rooms', 'look', 'door', 'road', 'too', 'root', 'woof', 'foot', 'roots']
+Correction: road
+the roof is being repaired -> the road is being repaired (correct: the roof is being repaired )
+hits = 59
+
+
+================ 119 ===================
+Error: emptied
+Candidates: ['emptied', 'implied', 'emptiest', 'empting', 'espied', 'emitted', 'emptiedc', 'emptieo', 'emptieds', 'emptiej']
+Correction: emptied
+have to be emptied every day -> have to be emptied every day (correct: have to be emptied every day )
+hits = 60
+
+
+================ 120 ===================
+Error: cleaned
+Candidates: ['cleansed', 'cleaned', 'gleamed', 'cleared', 'clean', 'cleanse', 'cleanest', 'gleaned', 'pleased', 'created']
+Correction: created
+they were cleaned -> they were created (correct: they were cleaned )
+hits = 60
+
+
+================ 121 ===================
+Error: the
+Candidates: ['the', 'they', 'then', 'them', 'that', 'she', 'this', 'threw', 'when', 'take']
+Correction: the
+he believes in the old story -> he believes in the old story (correct: he believes in the old story )
+hits = 61
+
+
+================ 122 ===================
+Error: player
+Candidates: ['player', 'players', 'played', 'prayer', 'prayers', 'place', 'plaster', 'planter', 'play', 'prayed']
+Correction: play
+the most famous player -> the most famous play (correct: the most famous player )
+hits = 61
+
+
+================ 123 ===================
+Error: century
+Candidates: ['century', 'center', 'gentry', 'centre', 'sentry', 'centers', 'censure', 'venture', 'centurya', 'centurq']
+Correction: center
+of the century -> of the center (correct: of the century )
+hits = 61
+
+
+================ 124 ===================
+Error: man
+Candidates: ['man', 'many', 'men', 'means', 'meant', 'main', 'mind', 'mean', 'may', 'me']
+Correction: man
+the man had tried to smuggle -> the man had tried to smuggle (correct: the man had tried to smuggle )
+hits = 62
+
+
+================ 125 ===================
+Error: put
+Candidates: ['but', 'put', 'must', 'part', 'pus', 'pity', 'path', 'past', 'puts', 'putty']
+Correction: put
+put more petrol -> put more petrol (correct: put more petrol )
+hits = 63
+
+
+================ 126 ===================
+Error: he
+Candidates: ['he', 'her', 'his', 'had', 'to', 'him', 'how', 'has', 'h', 'ha']
+Correction: he
+he tried to -> he tried to (correct: he tried to )
+hits = 64
+
+
+================ 127 ===================
+Error: heard
+Candidates: ['heard', 'had', 'hard', 'head', 'heart', 'her', 'hand', 'heads', 'hear', 'held']
+Correction: had
+heard a strange noise -> had a strange noise (correct: heard a strange noise )
+hits = 64
+
+
+================ 128 ===================
+Error: he
+Candidates: ['he', 'her', 'his', 'had', 'to', 'him', 'how', 'has', 'h', 'ha']
+Correction: he
+he tried to -> he tried to (correct: he tried to )
+hits = 65
+
+
+================ 129 ===================
+Error: he
+Candidates: ['he', 'her', 'his', 'had', 'to', 'him', 'how', 'has', 'h', 'ha']
+Correction: to
+he hit him -> to hit him (correct: he hit him )
+hits = 65
+
+
+================ 130 ===================
+Error: he'd
+Candidates: ['had', 'he', 'head', 'heads', 'red', 'heed', 'need', 'led', 'heat', 'fed']
+Correction: had
+he'd forgotten to -> had forgotten to (correct: he'd forgotten to )
+hits = 65
+
+
+================ 131 ===================
+Error: he'd
+Candidates: ['had', 'he', 'head', 'heads', 'red', 'heed', 'need', 'led', 'heat', 'fed']
+Correction: had
+he'd set fire to -> had set fire to (correct: he'd set fire to )
+hits = 65
+
+
+================ 132 ===================
+Error: he'd
+Candidates: ['had', 'he', 'head', 'heads', 'red', 'heed', 'need', 'led', 'heat', 'fed']
+Correction: he
+he'd shot his wife -> he shot his wife (correct: he'd shot his wife )
+hits = 65
+
+
+================ 133 ===================
+Error: them
+Candidates: ['them', 'the', 'then', 'than', 'that', 'thin', 'when', 'thumb', 'their', 'this']
+Correction: them
+sent them to prison -> sent them to prison (correct: sent them to prison )
+hits = 66
+
+
+================ 134 ===================
+Error: crying
+Candidates: ['crying', 'trying', 'saying', 'copying', 'praying', 'preying', 'curving', 'drying', 'flying', 'prying']
+Correction: crying
+crying her eyes out -> crying her eyes out (correct: crying her eyes out )
+hits = 67
+
+
+================ 135 ===================
+Error: Monday
+Candidates: ['monday', 'mondays', 'sunday', 'today', 'fondly', 'conway', 'condy', 'Monday', 'Mondac', 'Mondays']
+Correction: sunday
+last Monday -> last sunday (correct: last Monday )
+hits = 67
+
+
+================ 136 ===================
+Error: put
+Candidates: ['but', 'put', 'must', 'part', 'pus', 'pity', 'path', 'past', 'puts', 'putty']
+Correction: put
+put on weight -> put on weight (correct: put on weight )
+hits = 68
+
+
+================ 137 ===================
+Error: what
+Candidates: ['what', 'was', 'want', 'white', 'wheat', 'wait', 'that', 'when', 'wet', 'way']
+Correction: what
+what had happened -> what had happened (correct: what had happened )
+hits = 69
+
+
+================ 138 ===================
+Error: saved
+Candidates: ['saved', 'shaved', 'save', 'carved', 'starved', 'served', 'seven', 'have', 'solved', 'waved']
+Correction: have
+he'd saved the woman -> he'd have the woman (correct: he'd saved the woman )
+hits = 69
+
+
+================ 139 ===================
+Error: fat
+Candidates: ['fact', 'fate', 'fat', 'facts', 'foot', 'feet', 'faith', 'fast', 'flat', 'for']
+Correction: fast
+become too fat -> become too fast (correct: become too fat )
+hits = 69
+
+
+================ 140 ===================
+Error: what
+Candidates: ['what', 'was', 'want', 'white', 'wheat', 'wait', 'that', 'when', 'wet', 'way']
+Correction: what
+what had happened -> what had happened (correct: what had happened )
+hits = 70
+
+
+================ 141 ===================
+Error: in
+Candidates: ['in', 'and', 'on', 'an', 'i', 'one', 'it', 'any', 'is', 'a']
+Correction: and
+in holidays today -> and holidays today (correct: in holidays today )
+hits = 70
+
+
+================ 142 ===================
+Error: photographs
+Candidates: ['photographs', 'photographic', 'photograph', 'photography', 'photographer', 'photographa', 'photographt', 'photographsf', 'photographi', 'photographsq']
+Correction: photographs
+photographs of footprints -> photographs of footprints (correct: photographs of footprints )
+hits = 71
+
+
+================ 143 ===================
+Error: which
+Candidates: ['which', 'with', 'wish', 'whig', 'white', 'whigs', 'while', 'wick', 'whip', 'whit', 'witch']
+Correction: which
+which cannot be explained -> which cannot be explained (correct: which cannot be explained )
+hits = 72
+
+
+================ 144 ===================
+Error: wolf
+Candidates: ['wolf', 'would', 'wolfe', 'well', 'half', 'world', 'will', 'whole', 'wall', 'work']
+Correction: whole
+it's a wolf -> it's a whole (correct: it's a wolf )
+hits = 72
+
+
+================ 145 ===================
+Error: they
+Candidates: ['they', 'the', 'there', 'these', 'that', 'this', 'thy', 'three', 'their', 'then']
+Correction: they
+they aren't discovered -> they aren't discovered (correct: they aren't discovered )
+hits = 73
+
+
+================ 146 ===================
+Error: these
+Candidates: ['these', 'the', 'this', 'those', 'they', 'there', 'thus', 'thence', 'then', 'threes']
+Correction: the
+to photograph these things -> to photograph the things (correct: to photograph these things )
+hits = 73
+
+
+================ 147 ===================
+Error: an
+Candidates: ['and', 'in', 'an', 'on', 'any', 'a', 'one', 'am', 'of', 'anna', 'and']
+Correction: an
+an unborn child -> an unborn child (correct: an unborn child )
+hits = 74
+
+
+================ 148 ===================
+Error: beach
+Candidates: ['breach', 'back', 'breath', 'beach', 'death', 'beauche', 'branch', 'breech', 'reach', 'detach']
+Correction: death
+the mysterious beach -> the mysterious death (correct: the mysterious beach )
+hits = 74
+
+
+================ 149 ===================
+Error: choosing
+Candidates: ['choosing', 'shooting', 'closing', 'cooling', 'crossing', 'cooing', 'chasing', 'cooking', 'crooking', 'chopping']
+Correction: choosing
+choosing between -> choosing between (correct: choosing between )
+hits = 75
+
+
+================ 150 ===================
+Error: it
+Candidates: ['it', 'into', 'its', 'at', 'is', 'in', 'i', 'of', 'if', 'a']
+Correction: it
+it represents the -> it represents the (correct: it represents the )
+hits = 76
+
+
+================ 151 ===================
+Error: is
+Candidates: ['is', 'its', 'as', 'it', 'i', 'in', 'of', 'a', 'if', 'us']
+Correction: is
+it is ridiculous that -> it is ridiculous that (correct: it is ridiculous that )
+hits = 77
+
+
+================ 152 ===================
+Error: is
+Candidates: ['is', 'its', 'as', 'it', 'i', 'in', 'of', 'a', 'if', 'us']
+Correction: is
+is scientifically proved -> is scientifically proved (correct: is scientifically proved )
+hits = 78
+
+
+================ 153 ===================
+Error: are
+Candidates: ['are', 'or', 'army', 'area', 'agree', 'and', 'acres', 'armed', 'one', 'at']
+Correction: are
+there are advertisements for -> there are advertisements for (correct: there are advertisements for )
+hits = 79
+
+
+================ 154 ===================
+Error: was
+Candidates: ['was', 'what', 'west', 'wish', 'his', 'wars', 'ways', 'has', 'we', 'wash']
+Correction: was
+it was my imagination -> it was my imagination (correct: it was my imagination )
+hits = 80
+
+
+================ 155 ===================
+Error: to
+Candidates: ['to', 'the', 'two', 'took', 'do', 'for', 'so', 'don', 'not', 'how']
+Correction: to
+to ban smoking -> to ban smoking (correct: to ban smoking )
+hits = 81
+
+
+================ 156 ===================
+Error: my
+Candidates: ['my', 'may', 'by', 'me', 'man', 'men', 'no', 'mayo', 'met', 'mr']
+Correction: my
+my happiness depends on -> my happiness depends on (correct: my happiness depends on )
+hits = 82
+
+
+================ 157 ===================
+Error: the
+Candidates: ['the', 'they', 'then', 'them', 'that', 'she', 'this', 'threw', 'when', 'take']
+Correction: the
+the pleasant smell of -> the pleasant smell of (correct: the pleasant smell of )
+hits = 83
+
+
+================ 158 ===================
+Error: dialling
+Candidates: ['dealing', 'disabling', 'darling', 'dallying', 'dwelling', 'falling', 'killing', 'willing', 'calling', 'tilling']
+Correction: calling
+dialling the number -> calling the number (correct: dialling the number )
+hits = 83
+
+
+================ 159 ===================
+Error: actually
+Candidates: ['actually', 'annually', 'mutually', 'actual', 'actuallya', 'actualls', 'actuallj', 'actuallq', 'actuallyg', 'actuallyf']
+Correction: actually
+actually I had no -> actually I had no (correct: actually I had no )
+hits = 84
+
+
+================ 160 ===================
+Error: tiring
+Candidates: ['turning', 'during', 'firing', 'tearing', 'twirling', 'daring', 'taking', 'toiling', 'thing', 'tilling']
+Correction: daring
+the most tiring part -> the most daring part (correct: the most tiring part )
+hits = 84
+
+
+================ 161 ===================
+Error: gamblers
+Candidates: ['gambler', 'tumblers', 'gamble', 'gables', 'gamblers', 'gamblersc', 'gamblersv', 'gamblerw', 'gamblerso', 'gamblersd']
+Correction: gamble
+gamblers play poker -> gamble play poker (correct: gamblers play poker )
+hits = 84
+
+
+================ 162 ===================
+Error: the
+Candidates: ['the', 'they', 'then', 'them', 'that', 'she', 'this', 'threw', 'when', 'take']
+Correction: the
+the existence of -> the existence of (correct: the existence of )
+hits = 85
+
+
+================ 163 ===================
+Error: physical
+Candidates: ['physical', 'physically', 'physician', 'physics', 'physicar', 'physicai', 'physicale', 'physicalx', 'physican', 'physicala']
+Correction: physical
+physical sensations -> physical sensations (correct: physical sensations )
+hits = 86
+
+
+================ 164 ===================
+Error: is
+Candidates: ['is', 'its', 'as', 'it', 'i', 'in', 'of', 'a', 'if', 'us']
+Correction: is
+it is without doubt -> it is without doubt (correct: it is without doubt )
+hits = 87
+
+
+================ 165 ===================
+Error: analyse
+Candidates: ['analyze', 'analyzed', 'analyse', 'analysis', 'analyst', 'analyes', 'analysec', 'analysp', 'analysc', 'analysv']
+Correction: analyze
+let us analyse -> let us analyze (correct: let us analyse )
+hits = 87
+
+
+================ 166 ===================
+Error: developing
+Candidates: ['developing', 'enveloping', 'developingz', 'developingo', 'developingc', 'developingj', 'developind', 'developinv', 'developingn', 'developinp']
+Correction: developing
+developing countries -> developing countries (correct: developing countries )
+hits = 88
+
+
+================ 167 ===================
+Error: I
+Candidates: ['i', 'a', 's', 'j', 't', 'x', 'f', 'm', 'w', 'v']
+Correction: i
+I personally believe -> i personally believe (correct: I personally believe )
+hits = 88
+
+
+================ 168 ===================
+Error: as
+Candidates: ['as', 'is', 'and', 'a', 'also', 'of', 'at', 'ask', 'it', 'i', 'like']
+Correction: as
+as often as I breathe -> as often as I breathe (correct: as often as I breathe )
+hits = 89
+
+
+================ 169 ===================
+Error: perfumes
+Candidates: ['perfumed', 'perfume', 'perfumes', 'perfumek', 'perfumese', 'perfumey', 'perfumesg', 'perfumesw', 'perfumesf', 'perfumem']
+Correction: perfume
+flowers, perfumes -> flowers, perfume (correct: flowers, perfumes )
+hits = 89
+
+
+================ 170 ===================
+Error: interpret
+Candidates: ['interpret', 'internet', 'interpre', 'interprel', 'interpretd', 'interpretj', 'interpretr', 'interpretw', 'interprev', 'interprex']
+Correction: interpret
+to interpret what I've said -> to interpret what I've said (correct: to interpret what I've said )
+hits = 90
+
+
+================ 171 ===================
+Error: hurt
+Candidates: ['hurt', 'heart', 'hours', 'her', 'hurts', 'hour', 'hut', 'huerta', 'hart', 'hard']
+Correction: hurts
+my stomach hurt -> my stomach hurts (correct: my stomach hurt )
+hits = 90
+
+
+================ 172 ===================
+Error: surprised
+Candidates: ['surprised', 'surprise', 'surpliced', 'surmised', 'surpassed', 'surprisedc', 'surprisedf', 'surprisedx', 'surprisedh', 'surprisede']
+Correction: surprised
+surprised and paralysed by -> surprised and paralysed by (correct: surprised and paralysed by )
+hits = 91
+
+
+================ 173 ===================
+Error: believe
+Candidates: ['believe', 'believed', 'believes', 'believer', 'relieved', 'relieve', 'beliefs', 'relieves', 'belief', 'relive']
+Correction: believe
+I believe it was -> I believe it was (correct: I believe it was )
+hits = 92
+
+
+================ 174 ===================
+Error: when
+Candidates: ['when', 'went', 'whom', 'who', 'what', 'we', 'won', 'win', 'wens', 'the']
+Correction: when
+when it occurred -> when it occurred (correct: when it occurred )
+hits = 93
+
+
+================ 175 ===================
+Error: asked
+Candidates: ['asked', 'acted', 'ascend', 'added', 'asks', 'used', 'ashes', 'liked', 'awaked', 'ashen']
+Correction: asked
+she asked us whether -> she asked us whether (correct: she asked us whether )
+hits = 94
+
+
+================ 176 ===================
+Error: day
+Candidates: ['day', 'days', 'by', 'may', 'way', 'diary', 'say', 'boy', 'mary', 'many']
+Correction: days
+an extremely hot day -> an extremely hot days (correct: an extremely hot day )
+hits = 94
+
+
+================ 177 ===================
+Error: able
+Candidates: ['able', 'above', 'apple', 'abbe', 'adler', 'amble', 'ample', 'ambled', 'ambler', 'abel']
+Correction: able
+be able to choose -> be able to choose (correct: be able to choose )
+hits = 95
+
+
+================ 178 ===================
+Error: opinion
+Candidates: ['opinion', 'opinions', 'onion', 'option', 'minion', 'opinioi', 'opinionw', 'opiniod', 'opinionb', 'opinionc']
+Correction: opinions
+their opinion about -> their opinions about (correct: their opinion about )
+hits = 95
+
+
+================ 179 ===================
+Error: what
+Candidates: ['what', 'was', 'want', 'white', 'wheat', 'wait', 'that', 'when', 'wet', 'way']
+Correction: that
+to think what -> to think that (correct: to think what )
+hits = 95
+
+
+================ 180 ===================
+Error: to
+Candidates: ['to', 'the', 'two', 'took', 'do', 'for', 'so', 'don', 'not', 'how']
+Correction: to
+to continue with -> to continue with (correct: to continue with )
+hits = 96
+
+
+================ 181 ===================
+Error: was
+Candidates: ['was', 'what', 'west', 'wish', 'his', 'wars', 'ways', 'has', 'we', 'wash']
+Correction: was
+it was quite successful -> it was quite successful (correct: it was quite successful )
+hits = 97
+
+
+================ 182 ===================
+Error: never
+Candidates: ['never', 'nerve', 'severe', 'nerves', 'river', 'fever', 'liver', 'novel', 'lover', 'level']
+Correction: never
+I never thought that -> I never thought that (correct: I never thought that )
+hits = 98
+
+
+================ 183 ===================
+Error: I'd
+Candidates: ['and', 'had', 'ad', 'bed', 'red', 'led', 'bad', 'fed', 'lad', 'sad']
+Correction: had
+I'd heard that -> had heard that (correct: I'd heard that )
+hits = 98
+
+
+================ 184 ===================
+Error: he
+Candidates: ['he', 'her', 'his', 'had', 'to', 'him', 'how', 'has', 'h', 'ha']
+Correction: he
+he obviously reckoned -> he obviously reckoned (correct: he obviously reckoned )
+hits = 99
+
+
+================ 185 ===================
+Error: to
+Candidates: ['to', 'the', 'two', 'took', 'do', 'for', 'so', 'don', 'not', 'how']
+Correction: to
+to praise him -> to praise him (correct: to praise him )
+hits = 100
+
+
+================ 186 ===================
+Error: screaming
+Candidates: ['screaming', 'streaming', 'screening', 'scraping', 'spreading', 'steaming', 'scheming', 'dreaming', 'screwing', 'screamins']
+Correction: screaming
+screaming louder than -> screaming louder than (correct: screaming louder than )
+hits = 101
+
+
+================ 187 ===================
+Error: it
+Candidates: ['it', 'into', 'its', 'at', 'is', 'in', 'i', 'of', 'if', 'a']
+Correction: a
+to absorb it -> to absorb a (correct: to absorb it )
+hits = 101
+
+
+================ 188 ===================
+Error: I
+Candidates: ['i', 'a', 's', 'j', 't', 'x', 'f', 'm', 'w', 'v']
+Correction: i
+I couldn't stop staring -> i couldn't stop staring (correct: I couldn't stop staring )
+hits = 101
+
+
+================ 189 ===================
+Error: a
+Candidates: ['a', 'as', 'at', 'an', 'i', 'am', 'ah', 'o', 's', 'e']
+Correction: a
+a street cafe -> a street cafe (correct: a street cafe )
+hits = 102
+
+
+================ 190 ===================
+Error: movie
+Candidates: ['moved', 'move', 'moves', 'moving', 'movie', 'novice', 'bovine', 'mobile', 'motive', 'novoe']
+Correction: movie
+a movie was shown -> a movie was shown (correct: a movie was shown )
+hits = 103
+
+
+================ 191 ===================
+Error: companies
+Candidates: ['companies', 'companions', 'companion', 'compagnie', 'compares', 'compasses', 'companiesy', 'companiesh', 'companiesg', 'companier']
+Correction: companies
+companies started to work -> companies started to work (correct: companies started to work )
+hits = 104
+
+
+================ 192 ===================
+Error: there
+Candidates: ['there', 'the', 'three', 'they', 'theory', 'were', 'these', 'where', 'those', 'third', "they're"]
+Correction: there
+there is -> there is (correct: there is )
+hits = 105
+
+
+================ 193 ===================
+Error: a
+Candidates: ['a', 'as', 'at', 'an', 'i', 'am', 'ah', 'o', 's', 'e']
+Correction: a
+a tendency to -> a tendency to (correct: a tendency to )
+hits = 106
+
+
+================ 194 ===================
+Error: in
+Candidates: ['in', 'and', 'on', 'an', 'i', 'one', 'it', 'any', 'is', 'a']
+Correction: in
+meet in the snack-bar -> meet in the snack-bar (correct: meet in the snack-bar )
+hits = 107
+
+
+================ 195 ===================
+Error: control
+Candidates: ['control', 'controls', 'central', 'contra', 'contrat', 'contre', 'controd', 'controlp', 'controlo', 'controf']
+Correction: controls
+security control -> security controls (correct: security control )
+hits = 107
+
+
+================ 196 ===================
+Error: in
+Candidates: ['in', 'and', 'on', 'an', 'i', 'one', 'it', 'any', 'is', 'a']
+Correction: in
+in contact with -> in contact with (correct: in contact with )
+hits = 108
+
+
+Precision: 0.5510204081632653
+FalseAlarm: 0.4489795918367347

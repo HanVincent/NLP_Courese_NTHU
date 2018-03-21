@@ -1,0 +1,162 @@
+================ 1 ===================
+Error: strang
+Candidates: ['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction: strange
+I felt very strang -> I felt very strange (correct: I felt very strange )
+hits = 1
+
+
+================ 2 ===================
+Error: brake
+Candidates: ['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'break']
+Correction: break
+at brake time -> at break time (correct: at break time )
+hits = 2
+
+
+================ 3 ===================
+Error: brack
+Candidates: ['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction: block
+when the brack was finished -> when the block was finished (correct: when the break was finished )
+hits = 2
+
+
+================ 4 ===================
+Error: weanter
+Candidates: ['winter', 'water', 'wanted', 'wander', 'weather', 'walter', 'venter', 'waiter', 'decanter', 'weaned']
+Correction: water
+in the weanter when it was snowing -> in the water when it was snowing (correct: in the winter when it was snowing )
+hits = 2
+
+
+================ 5 ===================
+Error: gost
+Candidates: ['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction: most
+I thought it was a gost -> I thought it was a most (correct: I thought it was a ghost )
+hits = 2
+
+
+================ 6 ===================
+Error: expect
+Candidates: ['expect', 'expects', 'aspect', 'exact', 'except', 'expert', 'export', 'extent', 'experts', 'expend']
+Correction: except
+everything expect the houses -> everything except the houses (correct: everything except the houses )
+hits = 3
+
+
+================ 7 ===================
+Error: steped
+Candidates: ['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'speed', 'stephen', 'stated']
+Correction: stepped
+when I first steped -> when I first stepped (correct: when I first stepped )
+hits = 4
+
+
+================ 8 ===================
+Error: exclation
+Candidates: ['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction: exception
+I was on an exclation -> I was on an exception (correct: I was on an escalator )
+hits = 4
+
+
+================ 9 ===================
+Error: noicey
+Candidates: ['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction: noticed
+I noicey that I was on this thing -> I noticed that I was on this thing (correct: I noticed that I was on this thing )
+hits = 5
+
+
+================ 10 ===================
+Error: fance
+Candidates: ['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction: fence
+through the fance -> through the fence (correct: through the fence )
+hits = 6
+
+
+================ 11 ===================
+Error: kille
+Candidates: ['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction: killed
+the hunters kille them -> the hunters killed them (correct: the hunters kill them )
+hits = 6
+
+
+================ 12 ===================
+Error: nerrow
+Candidates: ['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction: narrow
+they kill birds with their nerrow -> they kill birds with their narrow (correct: they kill birds with their arrow )
+hits = 6
+
+
+================ 13 ===================
+Error: depe
+Candidates: ['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction: deep
+make a depe hole -> make a deep hole (correct: make a deep hole )
+hits = 7
+
+
+================ 14 ===================
+Error: gardon
+Candidates: ['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction: garden
+to tidy up his gardon -> to tidy up his garden (correct: to tidy up his garden )
+hits = 8
+
+
+================ 15 ===================
+Error: belu
+Candidates: ['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction: blew
+the wind belu the leaves -> the wind blew the leaves (correct: the wind blew the leaves )
+hits = 9
+
+
+================ 16 ===================
+Error: Mr
+Candidates: ['mr', 'mrs', 'my', 'me', 'm', 'or', 'mb', 'ma', 'of', 'are']
+Correction: mr
+Mr J. was very angray -> mr J. was very angray (correct: Mr J. was very angry )
+hits = 9
+
+
+================ 17 ===================
+Error: leavs
+Candidates: ['leaves', 'laws', 'leave', 'least', 'leads', 'lads', 'leaps', 'loans', 'means', 'learns']
+Correction: leaves
+garden full of leavs -> garden full of leaves (correct: garden full of leaves )
+hits = 10
+
+
+================ 18 ===================
+Error: manger
+Candidates: ['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction: manager
+talk to the manger -> talk to the manager (correct: talk to the manager )
+hits = 11
+
+
+================ 19 ===================
+Error: aero
+Candidates: ['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction: hero
+they throw a aero -> they throw a hero (correct: they throw a arrow )
+hits = 11
+
+
+================ 20 ===================
+Error: ansion
+Candidates: ['union', 'action', 'unison', 'onion', 'ention', 'anon', 'arson', 'ensign', 'anton', 'angio']
+Correction: action
+an ansion method of hunting -> an action method of hunting (correct: an ancient method of hunting )
+hits = 11
+
+
+Precision: 0.55
+FalseAlarm: 0.45

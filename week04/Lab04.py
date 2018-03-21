@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[37]:
+# In[5]:
 
 
 import math, re
@@ -79,7 +79,7 @@ def P(pw, pedit):
     return pw*pedit
 
 
-# In[38]:
+# In[6]:
 
 
 import requests
@@ -133,7 +133,7 @@ class NetSpeak:
 SE = NetSpeak() # singleton
 
 
-# In[54]:
+# In[7]:
 
 
 confusable = dict([line.strip().split('\t') for line in open('lab4.confusables.txt', 'r', encoding='utf8')])
@@ -156,19 +156,6 @@ def get_lowest_tri(tokens):
     lowest_pair = pairs[0]
     lowest_start = lowest_pair[0]
     
-    # 可能有多個 trigram count = 0，那就找 trigram 內的單字有錯字的（或機率最小的）
-#     if len(pairs) > 1:
-#         min_prob = math.inf
-#         for pair in pairs:
-#             prob = 1.0
-#             for word in pair[2]:
-#                 prob *= 1 if word.istitle() else Pw(word)
-                
-#             if prob < min_prob:
-#                 min_prob = prob
-#                 lowest_pair = pair
-#                 lowest_start = lowest_pair[0]
-        
     return lowest_pair, lowest_start
 
 def get_max_sent(tokens, lowest_start):
@@ -190,24 +177,18 @@ def get_max_sent(tokens, lowest_start):
     return best
 
 
-# In[55]:
-
-
-# get_max_sent('make a depe hole'.split(' '), 1)
-# get_lowest_tri('they kill birds with their nerrow 	they kill birds with their arrow'.split('\t')[0].strip().split(' '))
-
-
-# In[56]:
+# In[9]:
 
 
 # lines = ['I was on an exclation 	I was on an escalator', 'to tidy up his gardon 	to tidy up his garden','talk to the manger 	talk to the manager', 'through the fance 	through the fence']
 
 cor, hits = 0, 0
 lines = open('lab4.test.1.txt', 'r', encoding='utf8').readlines()[:20]
+result = open('result.txt', 'w', encoding='utf8')
 
 for i, line in enumerate(lines):
 # for line in lines:
-    print("================", i+1, "===================")
+    print("================", i+1, "===================", file=result)
     wrong, right = line.split('\t')
 
     tokens = wrong.strip().split(' ') # words(open('big.txt').read())) # or using regex
@@ -219,13 +200,50 @@ for i, line in enumerate(lines):
     if sent == right: hits += 1
     cor += 1
     
-    print("Error:", error_word)
-    print("Candidates:", candidates)
-    print("Correction:", right_word)
-    print(wrong, "->", sent, "(correct:", right, ")")
-    print("hits =", hits)
-    print()
+    print("Error:", error_word, file=result)
+    print("Candidates:", candidates, file=result)
+    print("Correction:", right_word, file=result)
+    print(wrong, "->", sent, "(correct:", right, ")", file=result)
+    print("hits =", hits, file=result)
+    print('\n', file=result)
 
-print("Precision:", hits/cor)
-print("FalseAlarm:", (cor-hits)/cor)
+print("Precision:", hits/cor, file=result)
+print("FalseAlarm:", (cor-hits)/cor, file=result)
+
+result.close()
+
+
+# In[ ]:
+
+
+################### BONUS ######################
+cor, hits = 0, 0
+lines = open('lab4.test.1.txt', 'r', encoding='utf8').readlines()[:20]
+result = open('result.txt', 'w', encoding='utf8')
+
+for i, line in enumerate(lines):
+# for line in lines:
+    print("================", i+1, "===================", file=result)
+    wrong, right = line.split('\t')
+
+    tokens = wrong.strip().split(' ') # words(open('big.txt').read())) # or using regex
+    lowest_pair, lowest_pos = get_lowest_tri(tokens)
+    
+    sent, error_word, right_word, candidates, _ = get_max_sent(tokens, lowest_pos)
+    sent, wrong, right = ' '.join(sent).strip(), wrong.strip(), right.strip()
+    
+    if sent == right: hits += 1
+    cor += 1
+    
+    print("Error:", error_word, file=result)
+    print("Candidates:", candidates, file=result)
+    print("Correction:", right_word, file=result)
+    print(wrong, "->", sent, "(correct:", right, ")", file=result)
+    print("hits =", hits, file=result)
+    print('\n', file=result)
+
+print("Precision:", hits/cor, file=result)
+print("FalseAlarm:", (cor-hits)/cor, file=result)
+
+result.close()
 
