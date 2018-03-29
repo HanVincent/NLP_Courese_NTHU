@@ -1,0 +1,1013 @@
+00001740-n 03 204 82114 entity
+00001930-n 03 1 46161 physical_entity
+00002137-n 03 56 39913 abstraction abstract_entity
+00002452-n 03 6 2769 thing
+00002684-n 03 1078 35771 physical_object object
+00004475-n 03 177 19447 being organism
+00006484-n 03 132 140 cell
+00007347-n 03 63 11461 causal_agent causal_agency cause
+00007846-n 03 5521 10296 someone somebody soul person individual mortal
+00015388-n 03 429 4016 animate_being brute beast animal fauna creature
+00017222-n 03 352 4487 plant flora plant_life
+00019128-n 03 216 1245 natural_object
+00019613-n 03 108 3491 substance
+00020090-n 03 210 2442 substance
+00020827-n 03 109 6575 matter
+00021939-n 03 2270 10698 artefact artifact
+00023271-n 03 760 4468 cognition knowledge noesis
+00024264-n 03 452 7315 attribute
+00024720-n 03 1192 3689 state
+00029378-n 03 122 8101 event
+00029677-n 03 333 1652 process physical_process
+00030358-n 03 1363 6876 deed human_activity human_action act
+00031264-n 03 897 8378 group grouping
+00031921-n 03 456 5145 relation
+00033020-n 03 1356 4641 communication
+00033615-n 03 251 2338 amount quantity measure
+00191142-n 04 1026 1340 change
+00331950-n 04 144 145 motion move motility movement
+00351638-n 04 74 74 diminution reduction decrease step-down
+00363260-n 04 55 55 increase step-up
+00383606-n 04 18 76 separation
+00407535-n 04 2325 3266 activity
+00428270-n 04 104 104 dance terpsichore saltation dancing
+00520257-n 04 39 68 show
+00523513-n 04 172 176 athletics sport
+00586262-n 04 130 130 berth office billet spot place situation position post
+00624738-n 04 55 55 workout physical_exertion exercising exercise physical_exercise
+00657604-n 04 38 91 medical_aid medical_care
+00661091-n 04 52 52 therapy
+00671351-n 04 162 162 surgical_operation surgical_procedure operation surgical_process surgery
+00766234-n 04 90 91 offence criminal_offense crime law-breaking offense criminal_offence
+00953559-n 04 11 126 battle engagement conflict fight
+00956485-n 04 96 96 pitched_battle
+01028082-n 04 53 53 religious_ceremony religious_ritual
+01080366-n 04 634 936 group_action
+01090446-n 04 176 176 commerce mercantilism commercialism
+01328702-n 05 20 73 virus
+01335659-n 05 52 52 animal_virus
+01342529-n 05 254 255 animal_order
+01348530-n 05 17 87 bacteria bacterium
+01355326-n 05 69 69 eubacteria eubacterium true_bacteria
+01428580-n 05 139 139 soft-finned_fish malacopterygian
+01429349-n 05 170 170 fish_family
+01432517-n 05 288 288 fish_genus
+01471682-n 05 227 3089 craniate vertebrate
+01503061-n 05 385 871 bird
+01504437-n 05 142 142 bird_family
+01507175-n 05 398 398 bird_genus
+01525720-n 05 238 238 oscine_bird oscine
+01639765-n 05 53 53 toad batrachian salientian anuran toad_frog frog
+01657723-n 05 161 161 reptile_genus
+01674464-n 05 41 62 lizard
+01695681-n 05 59 59 archosaurian archosaurian_reptile archosaur
+01726692-n 05 38 114 ophidian snake serpent
+01727646-n 05 51 51 colubrid colubrid_snake
+01759182-n 05 180 180 arthropod_family
+01762525-n 05 255 255 arthropod_genus
+01767661-n 05 124 579 arthropod
+01862557-n 05 114 114 mammal_family
+01864707-n 05 359 359 mammal_genus
+01886756-n 05 471 1131 eutherian eutherian_mammal placental_mammal placental
+02000954-n 05 125 125 wader wading_bird
+02021795-n 05 74 74 sea_bird seafowl seabird
+02083346-n 05 33 223 canid canine
+02084071-n 05 186 189 domestic_dog Canis_familiaris dog
+02159955-n 05 385 454 insect
+02283201-n 05 69 69 moth
+02329401-n 05 138 138 rodent gnawer
+02374149-n 05 18 117 equine equid
+02374451-n 05 98 98 horse Equus_caballus
+02394477-n 05 22 184 artiodactyl_mammal artiodactyl even-toed_ungulate
+02399000-n 05 134 161 ruminant
+02512053-n 05 96 617 fish
+02528163-n 05 24 530 teleost teleost_fish teleostan
+02552171-n 05 99 365 spiny-finned_fish acanthopterygian
+02554730-n 05 259 259 percoid_fish percoidean percoid
+02686568-n 06 52 60 aircraft
+02716866-n 06 64 64 antibiotic_drug antibiotic
+02727825-n 06 74 75 setup apparatus
+02743547-n 06 110 113 art fine_art
+02796623-n 06 74 75 barrier
+02858304-n 06 63 63 boat
+02913152-n 06 231 297 building edifice
+03051540-n 06 284 560 habiliment wear vesture clothing wearable article_of_clothing
+03057021-n 06 26 53 coat
+03094503-n 06 513 748 container
+03106110-n 06 53 53 cord
+03154073-n 06 5 98 cutting_tool cutlery cutter
+03183080-n 06 1963 2764 device
+03247620-n 06 194 914 drug
+03259505-n 06 16 84 abode dwelling_house dwelling domicile habitation home
+03265032-n 06 44 92 edge_tool
+03278248-n 06 70 84 electronic_equipment
+03294048-n 06 291 481 equipment
+03309808-n 06 221 283 textile cloth material fabric
+03323703-n 06 145 145 fastening fixing fastener holdfast
+03391770-n 06 95 95 framework
+03405725-n 06 198 198 piece_of_furniture article_of_furniture furniture
+03419014-n 06 244 271 garment
+03467984-n 06 71 71 gun
+03489162-n 06 156 156 hand_tool
+03528263-n 06 25 50 home_appliance household_appliance
+03544360-n 06 64 67 house
+03563967-n 06 309 726 implement
+03621049-n 06 46 66 kitchen_utensil
+03733925-n 06 244 244 measuring_device measuring_instrument measuring_system
+03736970-n 06 176 176 mechanical_device
+03740161-n 06 408 512 medicine medicament medication medicinal_drug
+03748162-n 06 18 69 mercantile_establishment sales_outlet outlet retail_store
+03764276-n 06 21 59 military_vehicle
+03791235-n 06 36 77 automotive_vehicle motor_vehicle
+03895293-n 06 63 136 passage
+03925226-n 06 51 51 photo photograph pic picture exposure
+03932670-n 06 62 62 piece_of_material piece_of_cloth
+03961939-n 06 58 58 platform
+04007894-n 06 39 225 product production
+04076846-n 06 170 228 representation
+04096066-n 06 77 77 route road
+04105893-n 06 194 195 room
+04194289-n 06 82 82 ship
+04202417-n 06 50 50 shop store
+04341686-n 06 777 1528 construction structure
+04377057-n 06 91 91 system
+04381994-n 06 43 87 tableware
+04451818-n 06 132 347 tool
+04493505-n 06 73 73 tubing tube
+04530566-n 06 13 188 vessel watercraft
+04565375-n 06 97 193 weapon arm weapon_system
+04576211-n 06 185 229 wheeled_vehicle
+04599396-n 06 19 159 work piece_of_work
+04602044-n 06 79 82 work workplace
+04616059-n 07 423 522 trait
+04623612-n 07 98 98 disposition temperament
+04723816-n 07 1159 1346 quality
+04847991-n 07 2 104 theological_virtue supernatural_virtue
+04849241-n 07 27 146 good goodness
+04916342-n 07 927 1079 property
+04956594-n 07 138 138 color colour coloring colouring
+05074774-n 07 173 173 position spatial_relation
+05138488-n 07 38 60 value
+05174653-n 07 87 88 right
+05220461-n 08 557 1791 body_part
+05225602-n 08 473 791 complex_body_part body_structure anatomical_structure bodily_structure structure
+05254795-n 08 40 64 hair
+05267548-n 08 161 344 animal_tissue
+05269901-n 08 117 117 os bone
+05289297-n 08 27 98 muscle musculus
+05289861-n 08 70 70 skeletal_muscle striated_muscle
+05333777-n 08 118 118 artery arteria arterial_blood_vessel
+05397468-n 08 70 143 bodily_fluid liquid_body_substance humor humour body_fluid
+05407119-n 08 65 70 endocrine hormone internal_secretion
+05417975-n 08 6 317 blood_vessel
+05418717-n 08 191 191 venous_blood_vessel vena vein
+05426243-n 08 63 64 tissue_layer membrane
+05660268-n 09 32 91 method
+05661996-n 09 58 58 system system_of_rules
+05701944-n 09 227 281 basic_cognitive_process
+05726596-n 09 62 62 organization organisation system arrangement
+05770664-n 09 11 290 higher_cognitive_process
+05770926-n 09 211 225 cerebration thinking mentation thought intellection thought_process
+05809192-n 09 279 2317 content cognitive_content mental_object
+05833840-n 09 416 583 thought idea
+05872982-n 09 71 71 law law_of_nature
+05941423-n 09 138 846 belief
+05943300-n 09 162 162 philosophical_system philosophy school_of_thought ism doctrine
+05946687-n 09 100 101 religion religious_belief faith
+05989479-n 09 14 52 theory
+05996646-n 09 105 715 discipline subject_field field_of_study study subject_area field bailiwick subject
+05999797-n 09 173 434 science scientific_discipline
+06037298-n 09 19 163 life_science bioscience
+06037666-n 09 73 73 biology biological_science
+06043075-n 09 70 70 medicine medical_specialty
+06157326-n 09 29 159 performing_arts
+06212839-n 09 52 52 ideology political_orientation political_theory
+06286395-n 10 128 128 word
+06333653-n 10 66 69 name
+06355894-n 10 21 136 computer_code code
+06362953-n 10 295 891 written_material piece_of_writing writing
+06387980-n 10 78 102 text textual_matter
+06394865-n 10 81 81 book
+06410904-n 10 88 88 book
+06429590-n 10 63 67 religious_text sacred_text sacred_writing religious_writing
+06479665-n 10 284 285 legal_instrument legal_document official_document instrument
+06481320-n 10 91 91 list listing
+06566077-n 10 37 114 computer_software package software_program software_package software_system software
+06568978-n 10 76 76 computer_programme program computer_program programme
+06589574-n 10 50 139 publication
+06598915-n 10 565 1096 content message substance subject_matter
+06619065-n 10 34 90 show
+06722453-n 10 371 426 statement
+06791372-n 10 305 435 signal signaling sign
+06814870-n 10 87 87 musical_notation
+06818970-n 10 41 128 graphic_symbol character grapheme
+06828818-n 10 82 82 alphabetic_character letter_of_the_alphabet letter
+06894544-n 10 51 51 artificial_language
+07020895-n 10 338 420 music
+07066659-n 10 137 301 expressive_style style
+07098193-n 10 61 61 rhetorical_device
+07109196-n 10 75 137 oral_communication spoken_language language voice_communication speech_communication speech spoken_communication
+07109847-n 10 77 78 vocalization utterance
+07260623-n 10 47 120 measure criterion touchstone standard
+07283608-n 11 810 975 occurrent natural_event happening occurrence
+07371293-n 11 148 149 sound
+07456188-n 11 70 114 competition contest
+07555863-n 13 240 1120 food solid_food
+07557434-n 13 315 315 dish
+07566340-n 13 150 563 foodstuff food_product
+07570720-n 13 93 569 nutrition alimentation aliment nutriment nourishment sustenance victuals
+07596684-n 13 30 93 sweet confection
+07597365-n 13 62 62 confect candy
+07609840-n 13 60 62 dessert afters sweet
+07628870-n 13 101 101 cake
+07649854-n 13 97 197 meat
+07653394-n 13 100 100 cut cut_of_meat
+07679356-n 13 109 112 breadstuff staff_of_life bread
+07705931-n 13 196 196 edible_fruit
+07707451-n 13 175 175 vegetable veg veggie
+07775905-n 13 57 57 saltwater_fish
+07809368-n 13 181 260 seasoner flavoring flavouring seasoning flavorer flavourer
+07829412-n 13 73 73 sauce
+07881800-n 13 106 339 drinkable beverage potable drink
+07884567-n 13 164 233 alcoholic_beverage intoxicant alcohol alcoholic_drink inebriant
+07891726-n 13 68 68 vino wine
+07942152-n 14 139 140 people
+07951464-n 14 344 365 assemblage aggregation collection accumulation
+07965085-n 14 86 86 body
+07975026-n 14 270 270 gathering assemblage
+07992450-n 14 95 5425 taxonomic_category taxonomic_group taxon
+08008335-n 14 815 1261 organization organisation
+08058098-n 14 51 51 company
+08061042-n 14 71 74 business_organisation business_concern business_organization business concern
+08081668-n 14 41 75 religion organized_religion faith
+08103777-n 14 149 149 class
+08107499-n 14 231 1201 family
+08108972-n 14 61 3607 genus
+08114861-n 14 13 67 department section
+08198398-n 14 84 84 military_unit force military_group military_force
+08276720-n 14 65 65 school
+08337324-n 14 118 118 office agency authority bureau federal_agency government_agency
+08392137-n 14 109 109 terrorist_group terrorist_organization FTO foreign_terrorist_organization
+08457976-n 14 65 119 series
+08497294-n 15 97 358 country area
+08512259-n 15 92 92 boundary bound bounds
+08518505-n 15 5 259 capital
+08524735-n 15 674 914 city metropolis urban_center
+08544813-n 15 225 227 country state land
+08552138-n 15 156 1721 territory territorial_dominion district dominion
+08574314-n 15 555 1759 geographic_area geographic_region geographical_region geographical_area
+08630039-n 15 217 310 region part
+08633957-n 15 49 219 port
+08654360-n 15 83 136 province state
+08655464-n 15 51 52 American_state
+08665504-n 15 288 288 town
+08691669-n 15 152 182 national_capital
+08695539-n 15 54 56 state_capital
+09190918-n 17 37 118 agent
+09203827-n 17 54 54 archipelago
+09225146-n 17 144 486 water body_of_water
+09252970-n 17 77 77 constellation
+09257949-n 17 118 189 cover natural_covering covering
+09316454-n 17 163 163 island
+09328904-n 17 63 63 lake
+09360122-n 17 68 68 mountain_peak
+09385911-n 17 49 1841 part piece
+09386422-n 17 68 68 subatomic_particle particle
+09403734-n 17 55 55 mountain_range chain mountain_chain range_of_mountains chain_of_mountains range
+09411430-n 17 200 200 river
+09465459-n 17 12 429 building_block unit
+09483738-n 18 32 245 imaginary_creature imaginary_being
+09484664-n 18 129 129 mythical_being
+09505418-n 18 185 445 god deity divinity immortal
+09513902-n 18 53 53 Semitic_deity
+09522978-n 18 58 58 Hindu_deity
+09551356-n 18 94 94 Greek_deity
+09587565-n 18 82 82 fictional_character character fictitious_character
+09612848-n 18 18 67 consumer
+09614684-n 18 102 114 defender protector shielder guardian
+09631463-n 18 110 110 unpleasant_person disagreeable_person
+09633969-n 18 46 214 wrongdoer offender
+09641757-n 18 128 135 Asiatic Asian
+09645091-n 18 179 182 Indian American_Indian Red_Indian
+09686536-n 18 172 185 European
+09738708-n 18 76 79 American
+09765278-n 18 145 151 thespian player role_player histrion actor
+09777353-n 18 50 52 agent
+09805475-n 18 71 72 designer architect
+09812338-n 18 84 420 creative_person artist
+09816771-n 18 26 63 associate
+09820263-n 18 180 192 athlete jock
+09855630-n 18 115 123 biologist life_scientist
+09882007-n 18 48 75 businessman man_of_affairs
+09913824-n 18 90 99 chemist
+09927451-n 18 76 92 reverend clergyman man_of_the_cloth
+09947232-n 18 146 149 composer
+09977660-n 18 104 106 malefactor crook outlaw criminal felon
+10020890-n 18 109 114 MD medico physician doc doctor Dr.
+10045713-n 18 67 71 pedagog pedagogue educator
+10053004-n 18 46 52 emperor
+10088390-n 18 50 55 film_maker film_producer movie_maker filmmaker
+10123844-n 18 67 81 full_general general
+10231515-n 18 144 147 male_monarch king Rex
+10241300-n 18 77 79 labourer manual_laborer laborer jack
+10284064-n 18 72 74 shaper maker
+10287213-n 18 80 81 adult_male man
+10301261-n 18 47 57 mathematician
+10309896-n 18 64 67 merchant merchandiser
+10340312-n 18 77 204 player musician instrumentalist
+10391653-n 18 147 150 painter
+10415638-n 18 56 446 performer performing_artist
+10423589-n 18 125 130 philosopher
+10428004-n 18 162 174 physicist
+10439851-n 18 49 155 player participant
+10515194-n 18 62 71 reformer meliorist reformist social_reformer crusader
+10522035-n 18 62 331 representative
+10547145-n 18 39 51 saint
+10557854-n 18 51 276 scholarly_person bookman scholar student
+10599806-n 18 89 99 singer vocalizer vocalist vocaliser
+10622053-n 18 62 67 soldier
+10628644-n 18 14 211 monarch crowned_head sovereign
+10630188-n 18 50 55 verbalizer speaker talker utterer verbaliser
+10650162-n 18 107 115 statesman solon national_leader
+10705615-n 18 45 50 theologian theologizer theologiser theologist
+10787470-n 18 142 143 woman adult_female
+10794014-n 18 640 655 writer author
+11419404-n 19 401 521 physical_phenomenon
+11450869-n 19 62 62 nonparticulate_radiation electromagnetic_wave electromagnetic_radiation
+11525955-n 19 57 57 air_current current_of_air wind
+11534677-n 20 74 74 plant_order
+11545714-n 20 176 176 fern
+11554175-n 20 63 63 gymnosperm_genus
+11556857-n 20 307 307 monocot_genus liliopsid_genus
+11562747-n 20 194 199 magnoliopsid_family dicot_family
+11567411-n 20 615 1234 magnoliopsid_genus dicot_genus
+11579418-n 20 320 320 asterid_dicot_genus
+11585340-n 20 297 297 rosid_dicot_genus
+11590783-n 20 73 73 fungus_family
+11592146-n 20 138 138 fungus_genus
+11665372-n 20 9 618 flowering_plant angiosperm
+11669921-n 20 467 467 flower
+11672400-n 20 140 140 wildflower wild_flower
+11675842-n 20 99 421 reproductive_structure
+11747468-n 20 50 50 leguminous_plant legume
+12102133-n 20 163 167 grass
+12205694-n 20 823 1041 herb herbaceous_plant
+12425281-n 20 124 124 liliaceous_plant
+12992868-n 20 211 308 fungus
+12998815-n 20 97 97 agaric
+13085113-n 20 54 54 weed
+13086908-n 20 126 681 plant_structure plant_part
+13100677-n 20 217 272 vine
+13104059-n 20 854 1014 tree
+13108841-n 20 157 157 coniferous_tree conifer
+13112664-n 20 782 782 bush shrub
+13121544-n 20 116 116 hydrophyte water_plant hydrophytic_plant aquatic_plant
+13129165-n 20 52 52 stalk stem
+13134947-n 20 123 320 fruit
+13152742-n 20 69 69 leaf foliage leafage
+13167078-n 20 113 113 fern_genus
+13244109-n 21 72 73 belongings property holding
+13252973-n 21 41 351 transferred_possession transferred_property
+13254985-n 21 3 56 financial_gain
+13255145-n 21 52 52 income
+13265011-n 21 60 61 gift
+13275847-n 21 49 246 cost
+13278375-n 21 120 120 payment
+13306870-n 21 75 75 charge
+13329641-n 21 205 270 assets
+13385913-n 21 67 67 currency
+13518963-n 22 299 304 action natural_process natural_action activity
+13526110-n 22 464 478 organic_process biological_process
+13576355-n 23 142 201 indefinite_quantity
+13582013-n 23 204 257 number
+13583724-n 23 319 825 unit_of_measurement unit
+13603305-n 23 74 74 linear_measure linear_unit
+13604718-n 23 388 389 monetary_unit
+13745420-n 23 53 53 large_integer
+13756125-n 23 58 58 containerful
+13819207-n 24 63 63 ratio
+13863186-n 25 23 60 plane_figure two-dimensional_figure
+13867641-n 25 58 59 curve curved_shape
+13910384-n 25 71 117 space
+13920835-n 26 1086 2368 status condition
+14052046-n 26 22 1152 unhealthiness health_problem ill_health
+14061805-n 26 42 691 malady illness unwellness sickness
+14070360-n 26 395 605 disease
+14127211-n 26 65 66 infectious_disease
+14174549-n 26 57 64 infection
+14189204-n 26 60 69 blood_disease blood_disorder
+14204950-n 26 154 160 pathology
+14235200-n 26 42 99 tumor tumour neoplasm
+14239425-n 26 56 57 metastatic_tumor malignant_neoplasm malignant_tumor
+14253124-n 26 69 69 animal_disease
+14285662-n 26 82 83 harm injury trauma hurt
+14299637-n 26 295 468 symptom
+14336539-n 26 170 170 rubor inflammation redness
+14429985-n 26 55 55 rank
+14501726-n 26 121 139 abnormality abnormalcy
+14548343-n 26 82 83 handicap impairment disablement disability
+14580897-n 27 801 2544 material stuff
+14586258-n 27 45 181 mixture
+14586769-n 27 93 94 alloy metal
+14607521-n 27 139 140 acid
+14622893-n 27 72 199 chemical_element element
+14625458-n 27 126 126 metallic_element metal
+14662574-n 27 246 246 mineral
+14682133-n 27 62 381 molecule
+14728724-n 27 107 178 protein
+14732946-n 27 69 69 enzyme
+14778436-n 27 68 987 agent
+14792703-n 27 55 58 carbohydrate saccharide sugar
+14818238-n 27 679 1256 chemical_compound compound
+14877585-n 27 61 84 gas
+14940386-n 27 38 386 liquid
+14966667-n 27 76 76 oil
+14989820-n 27 58 68 pigment
+14991927-n 27 17 96 plant_product
+15098161-n 27 133 133 wood
+15113229-n 28 518 680 period_of_time time_period period
+15157225-n 28 162 163 day
+15286249-n 28 82 83 rate
+03315023-n 99 99 99 facility installation 
+00001740-v 29 22 21 breathe respire take_a_breath suspire
+00010435-v 29 44 43 do behave act
+00014549-v 29 2 1 move be_active
+00015713-v 29 1 0 oversleep
+00016702-v 29 1 0 nod
+00017282-v 29 2 1 drowse_off drift_off flake_out drop_off nod_off dope_off fall_asleep doze_off
+00017865-v 29 3 2 retire sack_out hit_the_sack bed kip_down turn_in go_to_bed go_to_sleep crawl_in hit_the_hay
+00018158-v 29 1 0 get_up rise turn_out uprise arise
+00020133-v 29 2 1 wake
+00020449-v 29 1 0 keep_up
+00052374-v 29 1 0 wear have_on
+00057410-v 29 1 0 lie_in
+00059559-v 29 1 0 carry_to_term
+00077369-v 29 1 0 keep_down
+00077458-v 29 1 0 gag retch heave
+00078760-v 29 60 59 care_for treat
+00099721-v 29 7 6 work_out exercise
+00104868-v 29 48 47 release exhaust expel eject discharge
+00107943-v 29 2 1 fracture
+00109660-v 30 1085 1294 change
+00118764-v 30 1 0 follow keep_up keep_abreast
+00123170-v 30 31 30 vary alter change
+00126264-v 30 1700 1703 modify alter change
+00151689-v 30 59 59 diminish fall decrease lessen
+00156601-v 30 146 146 increase
+00173338-v 30 199 198 withdraw take_away take remove
+00224295-v 30 1 0 die
+00258109-v 30 2 1 leak
+00306298-v 30 1 0 detonate explode blow_up
+00339934-v 30 37 36 fall_out pass_off come_about pass hap happen take_place occur go_on
+00345761-v 30 14 13 begin get start_out set_about start set_out get_down commence
+00348746-v 30 12 11 lead_off start begin commence
+00360092-v 30 2 1 leave leave_behind
+00413876-v 30 3 2 locate settle
+00415044-v 30 2 1 settle
+00415743-v 30 1 0 set_in
+00422090-v 30 30 29 appear
+00425071-v 30 8 7 come_along appear
+00426958-v 30 11 10 go_away vanish disappear
+00528990-v 30 8 7 emerge egress go_forth issue come_out come_forth
+00549771-v 30 1 0 turn_to
+00550117-v 30 11 10 shift switch change
+00554298-v 30 1 0 disrupt
+00560247-v 30 1 0 fail run_out give_out
+00571061-v 30 2 1 take_away remove
+00588888-v 31 42 41 understand
+00591115-v 31 4 3 see understand realize realise
+00591755-v 31 1 0 get_through get_across sink_in come_home fall_into_place penetrate dawn click
+00592037-v 31 2 1 come_across resonate
+00594058-v 31 1 0 understand empathise sympathize empathize sympathise
+00594337-v 31 1 0 know
+00594621-v 31 4 3 know cognize cognise
+00595505-v 31 1 0 ignore
+00595630-v 31 2 1 know
+00595935-v 31 5 4 know
+00596132-v 31 2 1 know
+00597915-v 31 9 8 acquire larn learn
+00598954-v 31 9 8 pick_up get_a_line discover see hear learn find_out get_wind get_word
+00599992-v 31 7 6 read study take learn
+00601378-v 31 1 0 plunge immerse
+00601581-v 31 1 0 welter
+00607405-v 31 2 1 study
+00607780-v 31 9 8 retrieve remember recall recollect call_back think call_up
+00608808-v 31 1 0 think
+00609100-v 31 2 1 blank_out forget block draw_a_blank
+00609683-v 31 11 10 think_of remember
+00610167-v 31 4 3 bury forget
+00610538-v 31 5 4 remind
+00611256-v 31 3 2 think_back remember
+00611481-v 31 1 0 commemorate remember
+00613393-v 31 1 0 abandon give_up
+00613683-v 31 7 6 leave
+00614999-v 31 3 2 pretermit omit drop overleap leave_out overlook miss neglect
+00616153-v 31 2 1 neglect
+00616857-v 31 2 1 ignore disregard neglect
+00617748-v 31 10 9 slip err mistake
+00628491-v 31 451 450 cogitate cerebrate think
+00636888-v 31 2 1 found base establish ground
+00639849-v 31 1 0 get
+00643473-v 31 3 2 take_apart dissect analyze analyse break_down
+00644583-v 31 54 53 canvas study analyse examine canvass analyze
+00652346-v 31 1 0 name describe discover identify key distinguish key_out
+00665886-v 31 29 28 affirm substantiate support confirm corroborate sustain
+00679389-v 31 2 1 opt prefer choose
+00685419-v 31 1 0 winnow_out reject eliminate rule_out
+00697589-v 31 62 61 make_up_one's_mind determine decide
+00699815-v 31 49 48 set determine
+00708538-v 31 9 8 intend think mean
+00720063-v 31 7 6 await expect wait look
+00732552-v 31 1 0 observe maintain keep
+00736216-v 31 2 1 analyze analyse
+00740577-v 32 198 637 intercommunicate communicate
+00742320-v 32 9 144 put_across pass_along communicate pass_on pass
+00752764-v 32 134 134 bespeak call_for quest request
+00770437-v 32 56 55 get make induce have cause stimulate
+00779601-v 32 2 1 rest
+00799383-v 32 1 0 back_away back_out crawfish pull_back pull_in_one's_horns crawfish_out withdraw retreat
+00801626-v 32 1 0 dismiss throw_out
+00804802-v 32 9 8 dissent differ disagree take_issue
+00805376-v 32 39 38 hold concur agree concord
+00811375-v 32 12 11 avoid
+00813978-v 32 35 51 talk_over hash_out discuss
+00818974-v 32 8 7 take_a_firm_stand insist
+00831651-v 32 285 306 inform
+00843468-v 32 13 12 charge accuse
+00859325-v 32 3 2 cheer_up cheer jolly_along jolly_up
+00890590-v 32 3 2 insure assure ensure secure guarantee
+00892923-v 32 1 0 apologise apologize
+00905059-v 32 1 0 get_off
+00907147-v 32 14 13 plain kvetch sound_off kick complain quetch
+00918872-v 32 19 18 find_out find determine ascertain
+00920336-v 32 2 1 learn watch see determine ascertain find_out check
+00928630-v 32 21 60 convey
+00931852-v 32 19 18 signify intend stand_for mean
+00935141-v 32 1 0 come_out out
+00935987-v 32 2 1 break get_around get_out
+00937619-v 32 1 0 keep_quiet shut_one's_mouth keep_one's_mouth_shut
+00940384-v 32 120 203 give_tongue_to utter express verbalise verbalize
+00941990-v 32 97 132 verbalise verbalize mouth utter talk speak
+00950337-v 32 1 0 take_a_dare
+00950431-v 32 1 0 count weigh consider
+00973728-v 32 2 1 air
+00978549-v 32 27 26 sound_out pronounce enunciate articulate say enounce
+00983824-v 32 90 89 utter let_loose emit let_out
+00989201-v 32 5 4 speak address
+00989490-v 32 1 0 take_the_floor
+01000214-v 32 53 53 record put_down enter
+01006810-v 32 2 1 correspond
+01009821-v 32 1 0 say
+01010118-v 32 84 84 declare
+01011725-v 32 24 23 affirm
+01020731-v 32 1 0 fill_in fill_out make_out complete
+01029368-v 32 1 0 go_under go_by
+01030132-v 32 23 22 denominate designate
+01035530-v 32 5 4 agree
+01041061-v 32 1 0 shut_up close_up belt_up button_up clam_up be_quiet dummy_up keep_mum
+01066433-v 32 1 0 confront present face
+01068380-v 32 1 0 traverse deny
+01070777-v 32 1 0 begin
+01072262-v 33 21 79 contend compete vie
+01072949-v 33 59 59 play
+01076615-v 33 14 13 go move
+01079480-v 33 6 5 take_on meet play encounter
+01082606-v 33 2 1 participate enter
+01083044-v 33 1 0 quit throw_in drop_out throw_in_the_towel chuck_up_the_sponge fall_by_the_wayside give_up drop_by_the_wayside
+01087197-v 33 3 2 build_up gird fortify arm
+01087835-v 33 1 0 demilitarise disarm demilitarize
+01090335-v 33 81 80 contend struggle fight
+01093786-v 33 2 1 take_the_field campaign
+01099592-v 33 5 4 lose
+01100145-v 33 8 7 win
+01108148-v 33 57 56 get_the_better_of overcome defeat
+01111028-v 33 17 16 make_headway advance gain_ground get_ahead win gain pull_ahead
+01113620-v 33 1 0 drive_in
+01113975-v 33 2 1 keep_up
+01116447-v 33 6 5 yield
+01118081-v 33 2 1 submit
+01120069-v 33 15 14 assail assault attack set_on
+01133825-v 33 11 11 fire discharge
+01134238-v 33 1 0 fire discharge go_off
+01135371-v 33 1 0 trigger
+01154175-v 33 1 0 strike_out retire
+01155090-v 33 1 0 catch catch_up_with overtake
+01156834-v 34 90 89 have take_in consume ingest take
+01158572-v 34 10 9 use expend
+01158872-v 34 59 58 employ apply use utilize utilise
+01188342-v 34 1 0 be_full
+01189113-v 34 1 0 need
+01190948-v 34 4 3 delight enjoy revel
+01192992-v 34 1 0 go
+01196037-v 34 7 6 desist abstain refrain
+01197750-v 34 1 0 metabolize metabolise
+01200934-v 34 1 0 trip_out turn_on trip get_off
+01205331-v 34 1 0 go_down
+01205696-v 35 69 68 touch meet contact adjoin
+01206218-v 35 198 197 touch
+01207149-v 35 1 0 immobilize immobilise trap pin
+01209678-v 35 1 0 feel finger
+01212230-v 35 26 25 draw run guide pass
+01213146-v 35 1 0 snatch
+01214265-v 35 56 56 take get_hold_of
+01216670-v 35 16 15 take_hold hold
+01217043-v 35 14 13 support hold sustain hold_up
+01228524-v 35 1 0 break
+01230710-v 35 5 4 egg_on incite prod
+01237901-v 35 3 2 miss
+01296462-v 35 68 166 attach
+01307896-v 35 1 0 degrade
+01315613-v 35 23 22 look_for search seek
+01323958-v 35 49 48 kill
+01325536-v 35 2 1 kill
+01325774-v 35 2 1 kill
+01328012-v 35 1 0 catch
+01332730-v 35 189 188 cover
+01336635-v 35 2 1 cover overlay
+01339505-v 35 7 6 uncover expose
+01340439-v 35 97 97 fasten fix secure
+01345109-v 35 13 12 close shut
+01346003-v 35 12 11 open open_up
+01354673-v 35 97 261 tie link connect link_up
+01375295-v 35 2 1 splash
+01378556-v 35 39 38 distribute spread
+01380638-v 35 25 24 collect pull_together gather garner
+01397210-v 35 19 18 beat beat_up work_over
+01405044-v 35 58 58 hit
+01434140-v 35 1 0 bring
+01458228-v 35 2 1 percolate
+01470225-v 35 6 5 receive invite take_in
+01474550-v 35 17 16 release relinquish let_go let_go_of
+01475953-v 35 6 5 disengage free
+01481819-v 35 1 0 hang
+01481957-v 35 1 0 hang
+01482075-v 35 4 3 hang
+01488847-v 35 1 0 overload
+01494310-v 35 210 210 set pose place lay put position
+01525666-v 35 6 5 function go work run operate
+01526483-v 35 1 0 idle tick_over
+01531124-v 35 1 0 entrench dig_in
+01539063-v 35 6 5 draw take_up imbibe absorb soak_up take_in suck_up suck sop_up
+01542668-v 35 1 0 flow hang fall
+01542842-v 35 1 0 trail
+01543123-v 35 6 5 sit_down sit
+01547001-v 35 17 18 lie
+01552519-v 35 106 106 cut
+01562733-v 35 5 4 collide
+01564144-v 35 25 24 destroy ruin
+01570108-v 35 1 0 instal establish set_up install
+01601234-v 35 13 12 carry hold bear
+01610834-v 35 1 0 cut
+01611746-v 35 1 0 spread
+01615991-v 35 1 0 put_away put_aside
+01617192-v 36 629 658 make create
+01619231-v 36 32 31 unmake undo
+01621555-v 36 72 71 make produce create
+01644238-v 36 1 0 bring_on
+01652895-v 36 1 0 fruit
+01699896-v 36 3 2 write spell
+01712704-v 36 27 32 perform do execute
+01716882-v 36 2 1 play
+01717169-v 36 1 0 play run
+01718331-v 36 1 0 premiere premier
+01720660-v 36 1 0 enter
+01721556-v 36 4 3 pretend dissemble act
+01742726-v 36 7 6 cultivate
+01753788-v 36 5 4 create
+01767163-v 37 8 7 worry
+01767949-v 37 44 43 strike affect move impress
+01771535-v 37 40 39 feel experience
+01773535-v 37 1 0 acerbate embitter envenom
+01773734-v 37 1 0 grudge
+01775164-v 37 10 9 love
+01776065-v 37 1 0 cling
+01776727-v 37 7 6 dislike
+01776952-v 37 1 0 like
+01777210-v 37 6 5 like
+01780202-v 37 3 2 fear dread
+01780434-v 37 1 0 fear
+01787822-v 37 2 1 madden craze
+01796033-v 37 3 2 rage
+01796800-v 37 1 0 atone repent
+01802494-v 37 21 20 express_feelings express_emotion
+01807882-v 37 5 4 appeal attract
+01810933-v 37 2 1 despair
+01813499-v 37 2 1 gladden joy
+01814815-v 37 8 7 soothe comfort console solace
+01816431-v 37 6 5 satisfy gratify
+01817130-v 37 24 23 displease
+01818116-v 37 1 0 rise
+01819147-v 37 7 6 discourage
+01820302-v 37 3 2 enjoy savor savour bask relish
+01821884-v 37 1 0 bore tire
+01823149-v 37 1 0 give_a_damn give_a_hoot care_a_hang give_a_hang
+01825125-v 37 1 0 resent begrudge
+01825237-v 37 25 24 desire want
+01831531-v 38 329 328 move
+01834485-v 38 4 3 stand_still
+01835103-v 38 1 0 mire bog_down
+01835496-v 38 523 525 go travel move locomote
+01843055-v 38 22 21 travel jaunt trip
+01844048-v 38 1 0 inspect visit
+01848058-v 38 2 1 fly
+01848355-v 38 2 1 stay_in_place
+01850315-v 38 510 1026 move displace
+01854679-v 38 1 0 suction
+01855606-v 38 12 11 move
+01857717-v 38 6 5 start start_up
+01859221-v 38 14 13 stop
+01860795-v 38 12 11 stop halt
+01864230-v 38 3 2 go start get_going
+01868899-v 38 1 0 wreathe
+01880673-v 38 2 1 beat
+01899017-v 38 1 0 call call_off
+01900760-v 38 1 0 trip_up trip
+01944252-v 38 1 0 levitate hover
+01965156-v 38 1 0 jump leap
+01981279-v 38 1 0 down land shoot_down
+01983597-v 38 1 0 stand_up uprise bristle
+01989562-v 38 2 1 collapse burst
+01997512-v 38 1 0 back
+01999798-v 38 6 5 guide conduct take lead direct
+02005948-v 38 23 22 arrive come get
+02009200-v 38 1 0 stay
+02009433-v 38 49 48 leave go_away go_forth
+02016523-v 38 82 81 move_into go_in get_into come_in go_into enter get_in
+02020590-v 38 15 14 hit make reach attain arrive_at gain
+02023107-v 38 4 3 see come_across run_into meet run_across encounter
+02031158-v 38 16 15 divide separate
+02035315-v 38 1 0 arch_over overarch
+02052476-v 38 9 8 make_pass pass
+02067689-v 38 1 0 flow
+02078591-v 38 4 3 introduce bring_in
+02081578-v 38 2 1 leave_behind
+02086805-v 38 1 0 stampede
+02087472-v 38 1 0 port
+02098964-v 38 1 0 interpose
+02105657-v 38 1 0 climb_up ascend
+02105810-v 39 1 0 record register
+02106506-v 39 52 51 perceive comprehend
+02108654-v 39 1 0 receive get
+02108791-v 39 1 0 strike come_to hit
+02115778-v 39 13 12 sensitise sensitize
+02118476-v 39 2 1 note notice mark
+02118933-v 39 1 0 note take_note observe
+02119241-v 39 2 1 ignore
+02121423-v 39 1 0 itch
+02123903-v 39 32 120 cause_to_be_perceived
+02124632-v 39 1 0 reach_one's_nostrils
+02125460-v 39 1 0 nose_out scent_out sniff_out smell_out
+02127853-v 39 2 1 miss lose
+02128066-v 39 2 1 discover
+02128653-v 39 2 1 look_on watch
+02130017-v 39 1 0 lose_sight_of
+02130524-v 39 23 22 look
+02131279-v 39 35 34 examine see
+02131963-v 39 1 0 watch
+02135048-v 39 6 5 sound
+02136271-v 39 3 2 reflect reverberate
+02137132-v 39 36 35 show
+02144835-v 39 20 19 conceal hide
+02145814-v 39 7 6 hide hide_out
+02146790-v 39 2 1 conceal hold_in hold_back
+02150510-v 39 16 15 watch
+02151966-v 39 4 3 look_out watch_out watch
+02157100-v 39 2 1 bring_out produce bring_on
+02158034-v 39 1 0 glaze_over film_over blur
+02166761-v 39 1 0 bethink
+02168555-v 39 4 3 blind
+02176268-v 39 89 89 sound go
+02179518-v 39 23 22 sound
+02190077-v 39 1 0 deafen
+02191766-v 39 9 8 season flavor flavour
+02193194-v 39 3 2 recognize spot make_out tell_apart recognise distinguish pick_out discern
+02194286-v 39 2 1 taste savor savour
+02197091-v 39 1 0 lose
+02197505-v 39 1 0 greet
+02198602-v 39 1 0 follow survey surveil
+02199590-v 40 120 347 give
+02200686-v 40 25 24 present gift give
+02201138-v 40 1 0 take
+02202384-v 40 61 114 hold_on keep
+02203362-v 40 19 132 hold have_got have
+02204692-v 40 2 1 own have possess
+02205098-v 40 2 1 have
+02205272-v 40 33 32 take
+02206619-v 40 38 37 take
+02209936-v 40 2 1 take accept
+02210855-v 40 146 145 acquire get
+02220461-v 40 75 419 transfer
+02224055-v 40 47 46 remove get_rid_of
+02227741-v 40 3 2 abandon give_up
+02237338-v 40 3 2 decline refuse pass_up turn_down reject
+02247390-v 40 1 0 bring fetch bring_in
+02248465-v 40 1 0 chance bump happen find encounter
+02251743-v 40 67 67 pay
+02252755-v 40 1 0 tithe
+02254155-v 40 2 1 owe
+02260362-v 40 11 10 merchandise trade
+02265231-v 40 26 25 account calculate
+02265979-v 40 2 1 lay_aside save save_up
+02266920-v 40 2 1 save
+02280018-v 40 1 0 break_even
+02287618-v 40 2 1 lose
+02287789-v 40 3 2 lose
+02288155-v 40 1 0 lose
+02288828-v 40 1 0 turn_a_loss lose
+02289134-v 40 1 0 clear
+02298632-v 40 7 6 tender bid offer
+02315938-v 40 1 0 inherit
+02316868-v 40 7 6 give
+02317094-v 40 1 0 give grant
+02318403-v 40 1 0 fail
+02327200-v 40 158 158 provide furnish render supply
+02350175-v 40 8 7 disembarrass rid free
+02358034-v 40 1 0 afford open give
+02358655-v 40 1 0 fall
+02358922-v 40 1 0 fall
+02363742-v 40 1 0 check_out
+02367363-v 41 436 1082 move act
+02371352-v 41 1 0 keep_to_oneself
+02378330-v 41 1 0 lie_dormant
+02379528-v 41 4 5 start take_up
+02384041-v 41 7 6 instal install
+02386266-v 41 1 0 take_orders
+02404224-v 41 21 20 remove
+02404904-v 41 4 3 take_out remove move_out
+02406585-v 41 9 8 come_after succeed follow
+02407766-v 41 1 0 come_before precede
+02409412-v 41 9 8 employ hire engage
+02410855-v 41 27 26 do_work work
+02412089-v 41 1 0 get_off
+02413480-v 41 34 33 work
+02417504-v 41 6 5 idle stagnate slug laze
+02418421-v 41 1 0 play recreate
+02419073-v 41 7 7 act
+02421374-v 41 7 6 unloosen unloose loose free release liberate
+02422026-v 41 14 13 discharge free
+02423183-v 41 2 1 let allow permit
+02423650-v 41 1 0 give_up allow
+02423762-v 41 60 2 bottle_up inhibit suppress
+02424652-v 41 2 1 crush suppress oppress
+02426171-v 41 2 1 open open_up
+02426395-v 41 3 2 shut_down close close_up close_down fold
+02427334-v 41 3 2 get_rid_of abolish
+02431320-v 41 8 7 break break_up separate split_up part split
+02434859-v 41 1 0 fall_in
+02434976-v 41 27 26 fall_in join get_together
+02436140-v 41 1 0 disorganise disorganize
+02441022-v 41 94 93 control command
+02445100-v 41 1 0 decertify derecognise derecognize
+02445925-v 41 3 2 be follow
+02450505-v 41 66 65 prevent keep
+02452885-v 41 23 22 forbid prevent preclude foreclose forestall
+02463510-v 41 5 4 avoid
+02473890-v 41 1 0 vote
+02475922-v 41 43 42 appoint charge
+02477755-v 41 1 0 cancel scratch scrub call_off
+02481900-v 41 1 0 integrate desegregate mix
+02486932-v 41 15 14 meet get_together
+02488168-v 41 1 0 send_in
+02495038-v 41 10 9 confine detain
+02497992-v 41 1 0 arraign
+02499629-v 41 11 16 penalize punish penalise
+02500397-v 41 1 0 get_it
+02500489-v 41 1 0 catch_it
+02502916-v 41 1 0 refuse turn_away turn_down reject
+02511276-v 41 2 1 indulge
+02522319-v 41 1 0 fail
+02523221-v 41 1 0 do manage
+02523521-v 41 1 0 fail flush_it bomb flunk
+02524171-v 41 23 22 win come_through succeed bring_home_the_bacon deliver_the_goods
+02528380-v 41 9 8 fail miscarry go_wrong
+02529284-v 41 11 10 fail neglect
+02532886-v 41 1 0 experiment try_out
+02534062-v 41 2 1 relinquish foreswear forego waive forgo dispense_with
+02534936-v 41 1 0 woo court
+02535360-v 41 1 0 take_stage take_the_stage
+02539788-v 41 4 3 parent nurture bring_up raise rear
+02547225-v 41 2 1 disgrace dishonour dishonor attaint shame
+02551602-v 41 1 0 redeem save deliver
+02551832-v 41 4 3 bring_through save carry_through pull_through
+02556126-v 41 35 34 support back_up
+02560585-v 41 5 4 do make
+02561332-v 41 2 1 apply use practice
+02564146-v 41 6 5 relieve free exempt
+02566092-v 41 2 1 fall
+02568672-v 41 2 1 practise practice exercise do
+02578510-v 41 4 3 observe celebrate keep
+02578872-v 41 2 1 observe keep
+02581477-v 41 1 0 prosecute
+02581675-v 41 1 0 represent defend
+02590253-v 41 1 0 take
+02594469-v 41 1 0 stampede
+02595840-v 41 2 1 rest
+02596113-v 41 1 0 meet
+02596275-v 41 1 0 stag
+02596371-v 41 1 0 come_near
+02597095-v 41 1 0 mingle
+02597762-v 41 1 0 appear
+02598143-v 41 2 1 assemble gather get_together
+02598765-v 41 1 0 join
+02599528-v 41 1 0 fail
+02600779-v 41 1 0 take_to
+02603699-v 42 18 17 be exist
+02604760-v 42 252 251 be
+02608347-v 42 7 6 start begin
+02609764-v 42 24 23 stop cease finish end terminate
+02614181-v 42 1 0 be live
+02614387-v 42 13 12 live
+02614970-v 42 1 0 live
+02616386-v 42 1 0 be
+02616713-v 42 3 2 survive live exist subsist
+02617798-v 42 1 0 go
+02618149-v 42 4 3 live_on last hold_up live endure hold_out go survive
+02619122-v 42 2 1 outride ride_out last_out stay
+02619739-v 42 1 0 survive outlast outlive
+02620587-v 42 11 10 constitute represent be comprise make_up
+02621853-v 42 1 0 divide separate
+02622234-v 42 6 5 join link connect unite link_up
+02623529-v 42 14 13 become
+02627666-v 42 2 1 originate_in
+02627934-v 42 7 6 call_for require necessitate involve need take demand ask postulate
+02629256-v 42 2 1 rid_of eliminate obviate
+02630189-v 42 24 23 feature have
+02632353-v 42 3 2 lack miss
+02632838-v 42 1 0 miss
+02632940-v 42 18 17 include
+02637938-v 42 4 3 wait
+02640440-v 42 7 6 hesitate waver waffle
+02644234-v 42 4 3 dominate prevail reign rule predominate
+02653862-v 42 1 0 go
+02655135-v 42 89 88 be
+02658283-v 42 1 0 check_out check
+02662979-v 42 2 1 conform
+02663848-v 42 1 0 rely_on depend_on
+02664017-v 42 1 0 rely_upon rely_on depend_on depend_upon
+02664769-v 42 50 49 be equal
+02664992-v 42 2 1 amount
+02666239-v 42 14 13 differ
+02668523-v 42 2 1 go_against break violate
+02669477-v 42 2 1 transcend exceed surpass
+02671761-v 42 1 0 fall_short_of
+02673630-v 42 1 0 unbalance
+02673965-v 42 4 3 stand_out excel surpass
+02676054-v 42 8 7 touch_on relate pertain have-to_doe_with bear_on touch come_to refer concern
+02678438-v 42 1 0 occupy worry interest concern
+02679227-v 42 1 0 begin
+02680814-v 42 12 11 quit discontinue lay_off stop give_up cease
+02681639-v 42 1 0 break
+02681795-v 42 19 18 hold maintain keep
+02687251-v 42 1 0 undulate roll
+02687385-v 42 1 0 top lead
+02700666-v 42 1 0 go
+02700772-v 42 1 0 go
+02703289-v 42 2 1 relent yield soften
+02705832-v 42 1 0 straddle
+02707429-v 42 1 0 lend_oneself apply
+02708420-v 42 12 11 spend pass
+02709906-v 42 3 2 diverge
+02710402-v 42 2 1 meet converge
+02711987-v 42 3 2 hinge_upon depend_on turn_on devolve_on ride hinge_on depend_upon
+02712443-v 42 1 0 antecede forego predate forgo antedate precede
+02712772-v 42 1 0 follow postdate
+02713372-v 42 7 6 project protrude jut_out stick_out jut
+02714057-v 42 1 0 thrust
+02714731-v 42 1 0 protuberate
+02716165-v 42 4 3 attach_to come_with accompany go_with
+02719016-v 42 2 1 pout brood sulk
+02719930-v 42 3 2 belong_to belong
+02720697-v 42 1 0 follow
+02722449-v 42 1 0 play
+02725714-v 42 11 10 forbear refrain
+02731024-v 42 3 2 remain stay persist
+02732798-v 42 4 3 accommodate admit hold
+02733806-v 42 1 0 go_down
+02734653-v 42 1 0 photograph
+02736259-v 42 1 0 go_into
+02737187-v 42 1 0 derive come descend
+02740745-v 42 1 0 have
+02740859-v 42 1 0 hold_one's_own
+02741003-v 42 1 0 hang
+02741149-v 42 2 1 range
+02741682-v 42 1 0 admit
+02741793-v 42 1 0 agree
+02742232-v 42 1 0 ride drive
+02742482-v 42 1 0 mean
+02743921-v 42 1 0 come issue_forth
+02744451-v 42 1 0 afford
+02744651-v 42 1 0 open
+02745486-v 42 1 0 admit allow
+02749904-v 42 1 0 be
+02756821-v 43 12 11 precipitate come_down fall
+02758826-v 43 1 0 freeze
+02761897-v 43 4 3 snuff_out blow_out extinguish quench
+02762468-v 43 12 11 combust burn
+02763283-v 43 1 0 shine
+02763740-v 43 13 12 shine beam
+02765464-v 43 2 1 absorb take_in
+02767308-v 43 16 15 give_out emit give_off
+02769241-v 43 7 6 blow
+02770170-v 43 1 0 storm
+02770535-v 43 1 0 thunder boom
+02771169-v 43 1 0 clear_up clear light_up brighten
