@@ -146,8 +146,7 @@ print(correct/len(test_featuresets))
 
 # In[14]:
 
-# top_5_model = sklearn_classifier
-# top_10_model = sklearn_classifier
+
 
 
 # In[ ]:
