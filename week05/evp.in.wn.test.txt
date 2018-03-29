@@ -1,0 +1,48 @@
+
+abandon-v-1-B2	leave.v.01	to leave someone or something somewhere, sometimes not returning to get them||They were forced to abandon the car.||All at once, they abandoned their sacks of stolen property and ran for their lives!	{'abandon-v-1': 'get_rid_of.v.01', 'abandon-v-2': 'abandon.v.02', 'abandon-v-3': 'leave.v.01', 'abandon-v-4': 'abandon.v.04', 'abandon-v-5': 'leave.v.02'}
+
+abandon-v-2-C1	abandon.v.04	to stop doing something before it is finished, or to stop following a plan, idea, etc.||The weather was so bad, we abandoned our plans for a picnic.||How would you feel if you established a long-time plan for your career and then you had to abandon it?	{'abandon-v-1': 'get_rid_of.v.01', 'abandon-v-2': 'abandon.v.02', 'abandon-v-3': 'leave.v.01', 'abandon-v-4': 'abandon.v.04', 'abandon-v-5': 'leave.v.02'}
+
+abortion-n-1-C1	change.n.03	a medical method to end a pregnancy||to have an abortion||Some of these problems are serious and should be eliminated, such as abortion and domestic violence.	{'abortion-n-1': 'change.n.03', 'abortion-n-2': 'happening.n.01'}
+
+abroad-r-1-B1	adv.all	in or to a foreign country||He's gone abroad on business.||I have never been abroad.	{'abroad-r-1': 'adv.all', 'abroad-r-2': 'adv.all', 'abroad-r-3': 'adv.all'}
+
+abrupt-a-1-C2	sudden.a.01	sudden and not expected||Our conversation came to an abrupt end/halt.||Their income came from the revenues obtained by selling milk, fruit, jelly and other perishable goods, but they had to pay John, or their happy lifestyle would come to an abrupt end.	{'abrupt-a-1': 'staccato.a.01', 'abrupt-a-2': 'sudden.a.01', 'abrupt-a-3': 'steep.a.01', 'abrupt-a-4': 'discourteous.a.01'}
+
+abrupt-a-2-C2	discourteous.a.01	dealing with people in a quick, direct way that is unfriendly or rude||She can be rather abrupt.||I was poorly received and the general tone of the person assisting me was rude and abrupt.	{'abrupt-a-1': 'staccato.a.01', 'abrupt-a-2': 'sudden.a.01', 'abrupt-a-3': 'steep.a.01', 'abrupt-a-4': 'discourteous.a.01'}
+
+absence-n-1-B2	condition.n.01	when someone is not where they are usually expected to be||A new manager was appointed during/in her absence.||Anyway, during your absence, the T.V. repair man never appeared and I had to insist by phone on your behalf.	{'absence-n-1': 'condition.n.01', 'absence-n-2': 'group_action.n.01', 'absence-n-3': 'measure.n.02', 'absence-n-4': 'happening.n.01'}
+
+absence-n-2-B2	group_action.n.01	when something does not exist||He drew attention to the absence of concrete evidence against the defendant.||The biggest difference the absence of TV made in my life was that I actually started living.	{'absence-n-1': 'condition.n.01', 'absence-n-2': 'group_action.n.01', 'absence-n-3': 'measure.n.02', 'absence-n-4': 'happening.n.01'}
+
+absent-a-1-B1	nabsent.a.01	not in the place where you are expected to be, especially at school or work||John has been absent from school/work for three days now.||I'm going to be absent because my grandmother is ill and I have to take care of her.	{'absent-a-1': 'absent.a.01', 'absent-a-2': 'nonexistent.a.01', 'absent-a-3': 'inattentive.a.01'}
+
+absolute-a-1-B2	complete.a.01	complete and definite||absolute power/control||I have no experience in surfing - I am an absolute beginner with high motivation.	{'absolute-a-1': 'absolute.a.01', 'absolute-a-2': 'complete.a.01', 'absolute-a-3': 'arbitrary.a.01', 'absolute-a-4': 'unequivocal.a.01'}
+
+absolutely-r-1-B1	complete.a.01	completely||The food was absolutely delicious.||I've heard the film is absolutely fantastic.	{'absolutely-r-1': 'complete.a.01', 'absolutely-r-2': 'absolute.a.01'}
+
+absolutely-r-2-B2	complete.a.01	used to strongly agree with someone||"Do you think it helped his career?" "Absolutely."||So don't you think it was unfair and little rude to say that in your newspaper? Absolutely.	{'absolutely-r-1': 'complete.a.01', 'absolutely-r-2': 'absolute.a.01'}
+
+absolutely-r-3-C2	absolute.a.01	used to strongly disagree with someone or to agree with something negative||"Are you suggesting that we should just ignore the problem?" "No, absolutely not."||Does it mean the parents will allow them to eat anything they please? Absolutely not. You have to give the children some options, instead of imposing things on them.	{'absolutely-r-1': 'complete.a.01', 'absolutely-r-2': 'absolute.a.01'}
+
+absorb-v-1-B2	change.v.02	to take something in, especially gradually||Plants absorb carbon dioxide.||Everything is getting intermingled and absorbed into the system, making life terribly efficient, quick and easy.	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+
+absorb-v-2-B2	think.v.03	to give all your attention to something that you are doing||Simon was so absorbed in his computer game that he didn't notice me come in.||We hadn't noticed them at first because we were absorbed in listening to the birds singing.	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+
+absorb-v-3-C1	learn.v.01	to understand and remember facts that you read or hear||It's hard to absorb so much information.||You will have only three school subjects and that'[ll] make it easier to absorb the new knowledge.	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+
+abstract-a-1-B2	abstract.a.01	relating to ideas and not real things||abstract ideas||Reading improves your ability to imagine and your abstract thinking skills.	{'abstract-a-1': 'abstract.a.01', 'abstract-a-2': 'nonrepresentational.a.01', 'abstract-a-3': 'theoretical.a.02'}
+
+abstract-a-2-B2	nonrepresentational.a.01	Abstract art involves shapes and colors and not images of real things or people.||abstract paintings/sculpture||What kind of material will you use for this painting? Will it be a realistic picture or an abstract one?	{'abstract-a-1': 'abstract.a.01', 'abstract-a-2': 'nonrepresentational.a.01', 'abstract-a-3': 'theoretical.a.02'}
+
+absurd-a-1-B2	foolish.a.01	very silly||What an absurd explanation!||It is not a big city and I think it's absurd that people that live and work in it use the car to go to school or to work.	{'absurd-a-1': 'illogical.a.01', 'absurd-a-2': 'foolish.a.01'}
+
+abuse-n-1-B2	activity.n.01	bad or cruel treatment of people or animals||sexual/psychological/mental abuse||The one side opposes this treatment as an abuse of living creatures while the other side denies any suffering and points at the values of zoos for people.	{'abuse-n-1': 'activity.n.01', 'abuse-n-2': 'message.n.02', 'abuse-n-3': 'activity.n.01'}
+
+abuse-n-2-B2	activity.n.01	the use of a substance in an unsuitable and harmful way or for the wrong purpose||Drug and alcohol abuse contributed to his early death.||Get information about the effect] of drug abuse and make your generation a better one.	{'abuse-n-1': 'activity.n.01', 'abuse-n-2': 'message.n.02', 'abuse-n-3': 'activity.n.01'}
+
+abuse-n-3-C1	activity.n.01	an action or activity that is morally wrong or not allowed||The mayor was suspected of corruption and other abuses.||It is a vast resource of information, but the abuse of it may have detrimental consequences.	{'abuse-n-1': 'activity.n.01', 'abuse-n-2': 'message.n.02', 'abuse-n-3': 'activity.n.01'}
+
+abuse-n-4-C2	message.n.02	rude and offensive words said to another person||He found it difficult to tolerate the verbal abuse.||I went all the way back cycling on the wrong side of the road, and anyone who said something about it could expect a stream of abuse.	{'abuse-n-1': 'activity.n.01', 'abuse-n-2': 'message.n.02', 'abuse-n-3': 'activity.n.01'}
+
+abusive-a-1-C2	offensive.a.03	saying rude and offensive words to someone||an abusive phone call||This is partly true, because even a slightly abusive expression might result in discord or rupture between seemingly close friends.	{'abusive-a-1': 'offensive.a.03', 'abusive-a-2': 'harmful.a.01'}

@@ -1,0 +1,89 @@
+abandon-v-1	get_rid_of.v.01	abandon||forsake, leave behind||We abandoned the old car in the empty parking lot	{'abandon-v-1': 'get_rid_of.v.01', 'abandon-v-2': 'abandon.v.02', 'abandon-v-3': 'leave.v.01', 'abandon-v-4': 'abandon.v.04', 'abandon-v-5': 'leave.v.02'}
+abandon-v-2	abandon.v.02	abandon give_up||give up with the intent of never claiming again||Abandon your life to God; She gave up her children to her ex-husband when she moved to Tahiti; We gave the drowning victim up for dead	{'abandon-v-1': 'get_rid_of.v.01', 'abandon-v-2': 'abandon.v.02', 'abandon-v-3': 'leave.v.01', 'abandon-v-4': 'abandon.v.04', 'abandon-v-5': 'leave.v.02'}
+abandon-v-3	leave.v.01	vacate empty abandon||leave behind empty; move out of||You must vacate your office by tonight	{'abandon-v-1': 'get_rid_of.v.01', 'abandon-v-2': 'abandon.v.02', 'abandon-v-3': 'leave.v.01', 'abandon-v-4': 'abandon.v.04', 'abandon-v-5': 'leave.v.02'}
+abandon-v-4	abandon.v.04	abandon give_up||stop maintaining or insisting on; of ideas or claims||He abandoned the thought of asking for her hand in marriage; Both sides have to give up some claims in these negotiations	{'abandon-v-1': 'get_rid_of.v.01', 'abandon-v-2': 'abandon.v.02', 'abandon-v-3': 'leave.v.01', 'abandon-v-4': 'abandon.v.04', 'abandon-v-5': 'leave.v.02'}
+abandon-v-5	leave.v.02	abandon forsake desolate desert||leave someone who needs or counts on you; leave in the lurch||The mother deserted her children	{'abandon-v-1': 'get_rid_of.v.01', 'abandon-v-2': 'abandon.v.02', 'abandon-v-3': 'leave.v.01', 'abandon-v-4': 'abandon.v.04', 'abandon-v-5': 'leave.v.02'}
+
+abandoned-a-1	uninhabited.a.01	abandoned derelict deserted||forsaken by owner or inhabitants||weed-grown yard of an abandoned farmhouse	{'abandoned-a-1': 'uninhabited.a.01', 'abandoned-a-2': 'uninhibited.a.01'}
+abandoned-a-2	uninhibited.a.01	abandoned||free from constraint||an abandoned sadness born of grief"- Liam O'Flaherty	{'abandoned-a-1': 'uninhabited.a.01', 'abandoned-a-2': 'uninhibited.a.01'}
+
+ability-n-1	quality.n.01	ability||the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment||	{'ability-n-1': 'quality.n.01', 'ability-n-2': 'cognition.n.01'}
+ability-n-2	cognition.n.01	ability power||possession of the qualities (especially mental qualities) required to do something or get something done||danger heightened his powers of discrimination	{'ability-n-1': 'quality.n.01', 'ability-n-2': 'cognition.n.01'}
+
+abnormal-a-1	abnormal.a.01	abnormal unnatural||not normal; not typical or usual or regular or conforming to a norm||abnormal powers of concentration; abnormal amounts of rain; abnormal circumstances; an abnormal interest in food	{'abnormal-a-1': 'abnormal.a.01', 'abnormal-a-2': 'abnormal.a.02', 'abnormal-a-3': 'immoderate.a.01'}
+abnormal-a-2	abnormal.a.02	abnormal||departing from the normal in e.g. intelligence and development||they were heartbroken when they learned their child was abnormal; an abnormal personality	{'abnormal-a-1': 'abnormal.a.01', 'abnormal-a-2': 'abnormal.a.02', 'abnormal-a-3': 'immoderate.a.01'}
+abnormal-a-3	immoderate.a.01	abnormal||much greater than the normal||abnormal profits; abnormal ambition	{'abnormal-a-1': 'abnormal.a.01', 'abnormal-a-2': 'abnormal.a.02', 'abnormal-a-3': 'immoderate.a.01'}
+
+aboard-r-1	adv.all	aboard on_board||on a ship, train, plane or other vehicle||	{'aboard-r-1': 'adv.all', 'aboard-r-2': 'adv.all', 'aboard-r-3': 'adv.all', 'aboard-r-4': 'adv.all'}
+aboard-r-2	adv.all	aboard on_base||on first or second or third base||Their second homer with Bob Allison aboard	{'aboard-r-1': 'adv.all', 'aboard-r-2': 'adv.all', 'aboard-r-3': 'adv.all', 'aboard-r-4': 'adv.all'}
+aboard-r-3	adv.all	aboard alongside||side by side||anchored close aboard another ship	{'aboard-r-1': 'adv.all', 'aboard-r-2': 'adv.all', 'aboard-r-3': 'adv.all', 'aboard-r-4': 'adv.all'}
+aboard-r-4	adv.all	aboard||part of a group||Bill's been aboard for three years now	{'aboard-r-1': 'adv.all', 'aboard-r-2': 'adv.all', 'aboard-r-3': 'adv.all', 'aboard-r-4': 'adv.all'}
+
+abolish-v-1	abolish.v.01	abolish get_rid_of||do away with||Slavery was abolished in the mid-19th century in America and in Russia	{'abolish-v-1': 'abolish.v.01'}
+
+abortion-n-1	change.n.03	abortion||termination of pregnancy||	{'abortion-n-1': 'change.n.03', 'abortion-n-2': 'happening.n.01'}
+abortion-n-2	happening.n.01	miscarriage abortion||failure of a plan||	{'abortion-n-1': 'change.n.03', 'abortion-n-2': 'happening.n.01'}
+
+about-r-1	adv.all	approximately about close_to just_about some roughly more_or_less around or_so||(of quantities) imprecise but fairly close to correct||lasted approximately an hour; in just about a minute; he's about 30 years old; I've had about all I can stand; we meet about once a month; some forty people came; weighs around a hundred pounds; roughly $3,000; holds 3 gallons, more or less; 20 or so people were at the party	{'about-r-1': 'adv.all', 'about-r-2': 'adv.all', 'about-r-3': 'adv.all', 'about-r-4': 'adv.all'}
+about-r-2	adv.all	about around||all around or on all sides||dirty clothes lying around (or about); let's look about for help; There were trees growing all around; she looked around her	{'about-r-1': 'adv.all', 'about-r-2': 'adv.all', 'about-r-3': 'adv.all', 'about-r-4': 'adv.all'}
+about-r-3	adv.all	about around||in the area or vicinity||a few spectators standing about; hanging around; waited around for the next flight	{'about-r-1': 'adv.all', 'about-r-2': 'adv.all', 'about-r-3': 'adv.all', 'about-r-4': 'adv.all'}
+about-r-4	adv.all	about around||used of movement to or among many different places or in no particular direction||wandering about with no place to go; people were rushing about; news gets around (or about); traveled around in Asia; he needs advice from someone who's been around; she sleeps around	{'about-r-1': 'adv.all', 'about-r-2': 'adv.all', 'about-r-3': 'adv.all', 'about-r-4': 'adv.all'}
+
+about-a-1	active.a.05	about astir||on the move||up and about; the whole town was astir over the incident	{'about-a-1': 'active.a.05'}
+
+above-r-1	adv.all	above supra||at an earlier place||see above	{'above-r-1': 'adv.all', 'above-r-2': 'adv.all'}
+above-r-2	adv.all	above higher_up in_a_higher_place to_a_higher_place||in or to a place that is higher||	{'above-r-1': 'adv.all', 'above-r-2': 'adv.all'}
+
+above-r-1	adv.all	above supra||at an earlier place||see above	{'above-r-1': 'adv.all', 'above-r-2': 'adv.all'}
+above-r-2	adv.all	above higher_up in_a_higher_place to_a_higher_place||in or to a place that is higher||	{'above-r-1': 'adv.all', 'above-r-2': 'adv.all'}
+
+abroad-r-1	adv.all	abroad||to or in a foreign country||they had never travelled abroad	{'abroad-r-1': 'adv.all', 'abroad-r-2': 'adv.all', 'abroad-r-3': 'adv.all'}
+abroad-r-2	adv.all	afield abroad||far away from home or one's usual surroundings||looking afield for new lands to conquer"- R.A.Hall	{'abroad-r-1': 'adv.all', 'abroad-r-2': 'adv.all', 'abroad-r-3': 'adv.all'}
+abroad-r-3	adv.all	overseas abroad||in a place across an ocean||	{'abroad-r-1': 'adv.all', 'abroad-r-2': 'adv.all', 'abroad-r-3': 'adv.all'}
+
+abrupt-a-1	staccato.a.01	abrupt disconnected||marked by sudden changes in subject and sharp transitions||abrupt prose	{'abrupt-a-1': 'staccato.a.01', 'abrupt-a-2': 'sudden.a.01', 'abrupt-a-3': 'steep.a.01', 'abrupt-a-4': 'discourteous.a.01'}
+abrupt-a-2	sudden.a.01	abrupt||exceedingly sudden and unexpected||came to an abrupt stop; an abrupt change in the weather	{'abrupt-a-1': 'staccato.a.01', 'abrupt-a-2': 'sudden.a.01', 'abrupt-a-3': 'steep.a.01', 'abrupt-a-4': 'discourteous.a.01'}
+abrupt-a-3	steep.a.01	abrupt precipitous sharp||extremely steep||an abrupt canyon; the precipitous rapids of the upper river; the precipitous hills of Chinese paintings; a sharp drop	{'abrupt-a-1': 'staccato.a.01', 'abrupt-a-2': 'sudden.a.01', 'abrupt-a-3': 'steep.a.01', 'abrupt-a-4': 'discourteous.a.01'}
+abrupt-a-4	discourteous.a.01	abrupt||surprisingly and unceremoniously brusque in manner||an abrupt reply	{'abrupt-a-1': 'staccato.a.01', 'abrupt-a-2': 'sudden.a.01', 'abrupt-a-3': 'steep.a.01', 'abrupt-a-4': 'discourteous.a.01'}
+
+abruptly-r-1	sudden.a.01	abruptly suddenly short dead||quickly and without warning||he stopped suddenly	{'abruptly-r-1': 'sudden.a.01'}
+
+absence-n-1	condition.n.01	absence||the state of being absent||he was surprised by the absence of any explanation	{'absence-n-1': 'condition.n.01', 'absence-n-2': 'group_action.n.01', 'absence-n-3': 'measure.n.02', 'absence-n-4': 'happening.n.01'}
+absence-n-2	group_action.n.01	absence||failure to be present||	{'absence-n-1': 'condition.n.01', 'absence-n-2': 'group_action.n.01', 'absence-n-3': 'measure.n.02', 'absence-n-4': 'happening.n.01'}
+absence-n-3	measure.n.02	absence||the time interval during which something or somebody is away||he visited during my absence	{'absence-n-1': 'condition.n.01', 'absence-n-2': 'group_action.n.01', 'absence-n-3': 'measure.n.02', 'absence-n-4': 'happening.n.01'}
+absence-n-4	happening.n.01	absence absence_seizure||the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered), sometimes with light twitching, fluttering eyelids, etc.; common in petit mal epilepsy||	{'absence-n-1': 'condition.n.01', 'absence-n-2': 'group_action.n.01', 'absence-n-3': 'measure.n.02', 'absence-n-4': 'happening.n.01'}
+
+absent-a-1	absent.a.01	absent||not being in a specified place||	{'absent-a-1': 'absent.a.01', 'absent-a-2': 'nonexistent.a.01', 'absent-a-3': 'inattentive.a.01'}
+absent-a-2	nonexistent.a.01	lacking absent missing wanting||nonexistent||the thumb is absent; her appetite was lacking	{'absent-a-1': 'absent.a.01', 'absent-a-2': 'nonexistent.a.01', 'absent-a-3': 'inattentive.a.01'}
+absent-a-3	inattentive.a.01	absent absentminded abstracted scatty||lost in thought; showing preoccupation||an absent stare; an absentminded professor; the scatty glancing quality of a hyperactive but unfocused intelligence	{'absent-a-1': 'absent.a.01', 'absent-a-2': 'nonexistent.a.01', 'absent-a-3': 'inattentive.a.01'}
+
+absolute-a-1	absolute.a.01	absolute||perfect or complete or pure||absolute loyalty; absolute silence; absolute truth; absolute alcohol	{'absolute-a-1': 'absolute.a.01', 'absolute-a-2': 'complete.a.01', 'absolute-a-3': 'arbitrary.a.01', 'absolute-a-4': 'unequivocal.a.01'}
+absolute-a-2	complete.a.01	absolute downright out-and-out rank right-down sheer||complete and without restriction or qualification; sometimes used informally as intensifiers||absolute freedom; an absolute dimwit; a downright lie; out-and-out mayhem; an out-and-out lie; a rank outsider; many right-down vices; got the job through sheer persistence; sheer stupidity	{'absolute-a-1': 'absolute.a.01', 'absolute-a-2': 'complete.a.01', 'absolute-a-3': 'arbitrary.a.01', 'absolute-a-4': 'unequivocal.a.01'}
+absolute-a-3	arbitrary.a.01	absolute||not limited by law||an absolute monarch	{'absolute-a-1': 'absolute.a.01', 'absolute-a-2': 'complete.a.01', 'absolute-a-3': 'arbitrary.a.01', 'absolute-a-4': 'unequivocal.a.01'}
+absolute-a-4	unequivocal.a.01	absolute||expressing finality with no implication of possible change||an absolute guarantee to respect the nation's authority	{'absolute-a-1': 'absolute.a.01', 'absolute-a-2': 'complete.a.01', 'absolute-a-3': 'arbitrary.a.01', 'absolute-a-4': 'unequivocal.a.01'}
+
+absolutely-r-1	complete.a.01	absolutely perfectly utterly dead||completely and without qualification; used informally as intensifiers||an absolutely magnificent painting; a perfectly idiotic idea; you're perfectly right; utterly miserable; you can be dead sure of my innocence; was dead tired; dead right	{'absolutely-r-1': 'complete.a.01', 'absolutely-r-2': 'absolute.a.01'}
+absolutely-r-2	absolute.a.01	absolutely||totally and definitely; without question||we are absolutely opposed to the idea; he forced himself to lie absolutely still; iron is absolutely necessary	{'absolutely-r-1': 'complete.a.01', 'absolutely-r-2': 'absolute.a.01'}
+
+absorb-v-1	change.v.02	absorb||become imbued||The liquids, light, and gases absorb	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+absorb-v-2	learn.v.01	absorb assimilate ingest take_in||take up mentally||he absorbed the knowledge or beliefs of his tribe	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+absorb-v-3	give.v.03	absorb take_over||take up, as of debts or payments||absorb the costs for something	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+absorb-v-4	absorb.v.04	absorb suck imbibe soak_up sop_up suck_up draw take_in take_up||take in, also metaphorically||The sponge absorbs water well; She drew strength from the minister's words	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+absorb-v-5	change.v.02	absorb||cause to become one with||The sales tax is absorbed into the state income tax	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+absorb-v-6	absorb.v.06	absorb take_in||suck or take up or in||A black star absorbs all matter	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+absorb-v-7	think.v.03	steep immerse engulf plunge engross absorb soak_up||devote (oneself) fully to||He immersed himself into his studies	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+absorb-v-8	receive.v.05	absorb||assimilate or take in||The immigrants were quickly absorbed into society	{'absorb-v-1': 'change.v.02', 'absorb-v-2': 'learn.v.01', 'absorb-v-3': 'give.v.03', 'absorb-v-4': 'absorb.v.04', 'absorb-v-5': 'change.v.02', 'absorb-v-6': 'absorb.v.06', 'absorb-v-7': 'think.v.03', 'absorb-v-8': 'receive.v.05'}
+
+abstract-a-1	abstract.a.01	abstract||existing only in the mind; separated from embodiment||abstract words like `truth' and `justice'	{'abstract-a-1': 'abstract.a.01', 'abstract-a-2': 'nonrepresentational.a.01', 'abstract-a-3': 'theoretical.a.02'}
+abstract-a-2	nonrepresentational.a.01	abstract abstractionist nonfigurative nonobjective||not representing or imitating external reality or the objects of nature||a large abstract painting	{'abstract-a-1': 'abstract.a.01', 'abstract-a-2': 'nonrepresentational.a.01', 'abstract-a-3': 'theoretical.a.02'}
+abstract-a-3	theoretical.a.02	abstract||dealing with a subject in the abstract without practical purpose or intention||abstract reasoning; abstract science	{'abstract-a-1': 'abstract.a.01', 'abstract-a-2': 'nonrepresentational.a.01', 'abstract-a-3': 'theoretical.a.02'}
+
+absurd-a-1	illogical.a.01	absurd||inconsistent with reason or logic or common sense||the absurd predicament of seeming to argue that virtue is highly desirable but intensely unpleasant"- Walter Lippman	{'absurd-a-1': 'illogical.a.01', 'absurd-a-2': 'foolish.a.01'}
+absurd-a-2	foolish.a.01	absurd cockeyed derisory idiotic laughable ludicrous nonsensical preposterous ridiculous||incongruous; inviting ridicule||the absurd excuse that the dog ate his homework; that's a cockeyed idea; ask a nonsensical question and get a nonsensical answer; a contribution so small as to be laughable; it is ludicrous to call a cottage a mansion; a preposterous attempt to turn back the pages of history; her conceited assumption of universal interest in her rather dull children was ridiculous	{'absurd-a-1': 'illogical.a.01', 'absurd-a-2': 'foolish.a.01'}
+
+abuse-n-1	activity.n.01	maltreatment ill-treatment ill-usage abuse||cruel or inhumane treatment||the child showed signs of physical abuse	{'abuse-n-1': 'activity.n.01', 'abuse-n-2': 'message.n.02', 'abuse-n-3': 'activity.n.01'}
+abuse-n-2	message.n.02	abuse insult revilement contumely vilification||a rude expression intended to offend or hurt||when a student made a stupid mistake he spared them no abuse; they yelled insults at the visiting team	{'abuse-n-1': 'activity.n.01', 'abuse-n-2': 'message.n.02', 'abuse-n-3': 'activity.n.01'}
+abuse-n-3	activity.n.01	misuse abuse||improper or excessive use||alcohol abuse; the abuse of public funds	{'abuse-n-1': 'activity.n.01', 'abuse-n-2': 'message.n.02', 'abuse-n-3': 'activity.n.01'}
+
+abusive-a-1	offensive.a.03	abusive opprobrious scurrilous||expressing offensive reproach||	{'abusive-a-1': 'offensive.a.03', 'abusive-a-2': 'harmful.a.01'}
+abusive-a-2	harmful.a.01	abusive||characterized by physical or psychological maltreatment||abusive punishment; argued...that foster homes are abusive	{'abusive-a-1': 'offensive.a.03', 'abusive-a-2': 'harmful.a.01'}
