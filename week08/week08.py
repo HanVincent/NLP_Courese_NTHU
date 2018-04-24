@@ -45,7 +45,7 @@ for i, bef in enumerate(src):
     print(sent)
     for edit in edits.split('\n'):
         head, pattern, ngram = edit.split('\t')
-        if head not in ['DISCUSS', 'ANSWER', 'APPLY', 'EXPLAIN']: continue
+        # if head not in ['DISCUSS', 'ANSWER', 'APPLY', 'EXPLAIN']: continue
         
         chances = [ (aft_ptn, channel_model[pattern][aft_ptn] / sum(channel_model[pattern].values())
                   * lang_model[head][aft_ptn] / sum(lang_model[head].values())) for aft_ptn in channel_model[pattern]]
